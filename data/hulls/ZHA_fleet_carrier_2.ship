@@ -29,7 +29,7 @@
 		"ecm",
 		"efficiency_overhaul",
 		"extendedshieldemitter",
-		"fds_maintenance_bots",
+#		"fds_maintenance_bots",
 		"fluxbreakers",
 		"fluxcoil",
 		"fluxdistributor",
@@ -55,7 +55,7 @@
 #		"SRD_prototype_miniature_nullspace_shunt",
 		"stabilizedshieldemitter",
 		"supercomputer",
-		"swp_gunneryai",
+#		"swp_gunneryai",
 		"turretgyros"
 	],
 	"builtInWeapons":

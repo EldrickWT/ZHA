@@ -59,8 +59,8 @@
 			"mode": "LINKED",
 			"weapons": {
 #Hidden, Large, Universal
-				"WS0001": "ZHA_thot_cannon_sml",
-				"WS0002": "ZHA_thot_cannon_sml"
+				"WS0001": "ZHA_thot_cannon_lrg",
+				"WS0002": "ZHA_thot_cannon_lrg"
 			}
 		},
 		{
