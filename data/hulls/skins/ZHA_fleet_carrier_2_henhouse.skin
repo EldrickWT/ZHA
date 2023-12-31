@@ -1,0 +1,20 @@
+{
+	"baseHullId":"ZHA_fleet_carrier_2",
+	"descriptionId":"ZHA_fleet_carrier_2",
+	"descriptionPrefix":"The Hull is reinvigorated once again for it has many charges in it's care. It is now a Hen House. The Hens are legion.",
+	"hullDesignation":"Carrier",
+	"hullName":"Hen House",
+	"skinHullId":"ZHA_fleet_carrier_2_henhouse",
+	"tags":["ZHA_bp,rd_force_extra_craft"],
+	"tech":"ZHA",
+	"systemId":"reservewing",
+	"builtInWings":
+	[
+		"ZHA_weasel_stan_wing",
+		"ZHA_weasel_stan_wing",
+		"ZHA_weasel_stan_wing",
+		"ZHA_weasel_stan_wing",
+		"ZHA_weasel_stan_wing",
+		"ZHA_weasel_stan_wing"
+	]
+}

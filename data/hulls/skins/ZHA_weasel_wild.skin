@@ -1,0 +1,13 @@
+{
+	"baseHullId":"ZHA_weasel",		# The base vessel being SKINned.
+	"skinHullId":"ZHA_weasel_wild",	# THIS file's name minus extention. This becomes a viable EMPTY hull as if it had a SHIP file referenced with _hull appended.
+	"hullName":"Wild Weasel",		# What you want displayed... when it is destroyed. "ISS HerpDerp (Random-Class) disabled" for WINGs it is the full name.
+	"descriptionId":"ZHA_weasel",		# optional... if you fill in the entire description on the next line.
+	"descriptionPrefix":"When you need more weapons you call in Wild Weasels...", # Appears above the optionally imported description unless this is a SKIN for a WING.
+	"spriteName":"graphics/ships/ZHA_weasel.png", #Art and Design 'Neutrino Corp Mod', pixel and flood fill recolor Eldrick Tobin
+	"removeWeaponSlots":[],			# ids... WSXXX. This slot vanishes. The weapon in the slot vanishes.
+	"removeEngineSlots":[],			# indices, as engine slots have no id in the .ship file... ESXXX
+	"removeBuiltInMods":[],			# hullmod ids... "missile_reload", "automatedship"
+	"removeBuiltInWeapons":[],		# weapon slot ids... WSXXX. The Weapon Vanishes so you can replace it.
+	"baseValueMult":1.0				# Most applicable if the vessel does not ordinarily appear in ship_data.csv or wing_data.csv... Bosses and High Value Bounties come to mind.
+}

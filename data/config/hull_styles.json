@@ -1,0 +1,14 @@
+{
+	"ZHA_TECH":
+	{
+		"hyperspaceJitterColor":[100,165,255,200],
+		"baseCampaignExplosionColor":[119,200,137,125],
+		"baseCombatExplosionColor":[119,200,137,125],
+		"fighterRepairFlickerColor":[255,150,100,250],
+		"weaponDisabledExplosionColor":[255,150,100,205],
+		"shieldRingColor":[25,75,255,255],
+		"shieldInnerColor":[0,150,255,55],
+		"fluxVentCoreColor":[255,255,255,255],
+		"fluxVentFringeColor":[100,125,255,150],
+	}
+}

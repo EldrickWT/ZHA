@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ZHA_weasel_stan_wing",
+    "variant": "ZHA_weasel_standard",
+    "tags": "ZHA_bp",
+    "tier": 4,
+    "rarity": 0.3,
+    "fleet pts": 12,
+    "op cost": 20,
+    "formation": "V",
+    "range": 4000,
+    "attackRunRange": 1000,
+    "attackPositionOffset": 300,
+    "num": 3,
+    "role": "FIGHTER",
+    "role desc": "Fighter",
+    "refit": 20,
+    "base value": 20000
+  },
+  {
+    "id": "ZHA_weasel_wild_wing",
+    "variant": "ZHA_weasel_wild_standard",
+    "tags": "ZHA_bp",
+    "tier": 5,
+    "rarity": 0.1,
+    "fleet pts": 20,
+    "op cost": 40,
+    "formation": "V",
+    "range": 4000,
+    "attackRunRange": 1000,
+    "attackPositionOffset": 300,
+    "num": 3,
+    "role": "FIGHTER",
+    "role desc": "Fighter",
+    "refit": 20,
+    "base value": 32000
+  }
+]

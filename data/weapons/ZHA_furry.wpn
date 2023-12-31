@@ -1,0 +1,29 @@
+{
+	"id":"ZHA_furry",
+	"specClass":"projectile",
+	"type":"MISSILE",
+	"size":"SMALL",
+	"turretSprite":"graphics/weapons/ZHA_furrylauncher_turret.png",
+	"turretOffsets":[19, 0],
+	"turretAngleOffsets":[0],
+	"hardpointSprite":"graphics/weapons/ZHA_furrylauncher_hp.png",
+	"hardpointOffsets":[19, 0],
+	"hardpointAngleOffsets":[0],
+	"barrelMode": "ALTERNATING",
+	"animationType": "MUZZLE_FLASH",
+	"textureType": ROUGH,
+	"interruptibleBurst":false,
+	"displayArcRadius":1000,
+	"muzzleFlashSpec":
+	{
+		"length": 15,
+		"particleColor": [100,205,255,150],
+		"particleCount": 10,
+		"particleDuration": 1.5,
+		"particleSizeMin": 10,
+		"particleSizeRange": 20,
+		"spread": 180
+	},
+	"projectileSpecId":"ZHA_furrytorp",
+	"fireSoundTwo":"ZHA_furry_fire"
+}

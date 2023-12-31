@@ -1,0 +1,125 @@
+{
+	"bounds": [31.75, 0, 8.25, -3, -2.5, -9.25, -0.25, -17.75, -3.25, -18.5, -13.5, -8, -18, -8, -18, -2.25, -15.25, -2.25, -15.25, 2.25, -18, 2.25, -18, 8, -13.5, 8, -3.25, 18.5, -0.25, 17.75, -2.5, 9.25, 8.25, 3],
+	"builtInMods": [],
+	"builtInWeapons": {},
+	"builtInWings": [],
+	"center": [19, 18.5],
+	"collisionRadius": 34,
+	"engineSlots": [
+		{
+			"angle": 180,
+			"contrailSize": 5,
+			"length": 25,
+			"location": [-17.25, 6.25],
+			"style": "HIGH_TECH",
+			"width": 5
+		},
+		{
+			"angle": -180,
+			"contrailSize": 5,
+			"length": 25,
+			"location": [-17.25,-6.25],
+			"style": "HIGH_TECH",
+			"width": 5
+		},
+		{
+			"angle": -180,
+			"contrailSize": 5,
+			"length": 25,
+			"location": [-17.25, 8.5],
+			"style": "HIGH_TECH",
+			"width": 5
+		},
+		{
+			"angle": -180,
+			"contrailSize": 5,
+			"length": 25,
+			"location": [-17.25, -8.5],
+			"style": "HIGH_TECH",
+			"width": 5
+		},
+		{
+			"angle": -180,
+			"contrailSize": 5,
+			"length": 25,
+			"location": [-17.25, 10.5],
+			"style": "HIGH_TECH",
+			"width": 12
+		},
+		{
+			"angle": -180,
+			"contrailSize": 5,
+			"length": 25,
+			"location": [-17.25, -10.5],
+			"style": "HIGH_TECH",
+			"width": 12
+		}
+	],
+	"height": 51,
+	"width": 38,
+	"hullId": "ZHA_weasel",
+	"hullName": "Weasel",
+	#"hullSize": "FRIGATE",
+	"hullSize": "FIGHTER",
+	"shieldCenter": [1.75, 0],
+	"shieldRadius": 30.75,
+	"spriteName": "graphics/ships/ZHA_weasel2.png", #Art and Design 'Neutrino Corp Mod', pixel and flood fill recolor Eldrick Tobin
+	"style": "ZHA_TECH",
+	"viewOffset": 0,
+	"weaponSlots": [
+		{
+			"angle": 0,
+			"arc": 7.5,
+			"id": "WS0001",
+			"locations": [0.25,7.5],
+			"mount": "HIDDEN",
+			"size": "LARGE",
+			"type": "UNIVERSAL"
+		},
+		{
+			"angle": 0,
+			"arc": 7.5,
+			"id": "WS0002",
+			"locations": [0.25,-7.5],
+			"mount": "HIDDEN",
+			"size": "LARGE",
+			"type": "UNIVERSAL"
+		},
+		{
+			"angle": 0,
+			"arc": 7.5,
+			"id": "WS0003",
+			"locations": [-1.75, 15],
+			"mount": "HIDDEN",
+			"size": "SMALL",
+			"type": "UNIVERSAL"
+		},
+		{
+			"angle": 0,
+			"arc": 7.5,
+			"id": "WS0004",
+			"locations": [-1.75,-15],
+			"mount": "HIDDEN",
+			"size": "SMALL",
+			"type": "UNIVERSAL"
+		},
+		{
+			"angle": 0,
+			"arc": 75,
+			"id": "WS0005",
+			"locations": [-5.75, 0],
+			"mount": "HIDDEN",
+			"size": "MEDIUM",
+			"type": "UNIVERSAL"
+		},
+		{
+			"angle": 0,
+			"arc": 75,
+			"id": "WS0006",
+			"locations": [-2.25,0],
+			"mount": "TURRET",
+			"size": "SMALL",
+			"type": "UNIVERSAL"
+		}
+	],
+}

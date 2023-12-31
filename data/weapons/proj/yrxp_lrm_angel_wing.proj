@@ -1,0 +1,44 @@
+{
+	"id":"yrxp_lrm_angel_wing",
+	"specClass":"missile",	
+	"missileType":"MISSILE",
+	"sprite":"graphics/missiles/yrxp_sparkler.png",
+	"size":[8,18],	
+	"center":[4,9],
+	"collisionRadius":9,
+	"collisionClass":"MISSILE_NO_FF",
+	"explosionColor":[200,100,180,165],  # purely visual, will get a white additively blended core on top of this color
+	"explosionRadius":100, # purely visual
+	"maxFlightTime":3.7,
+	"engineSpec":
+	{
+		"turnAcc":1000,
+		"turnRate":100,
+		"acc":240,
+		"dec":40
+	},	    
+	"engineSlots":
+	[
+		{
+			"id":"ES1",
+			"loc":[0, 0],
+			"style":"CUSTOM",
+			"styleSpec":
+			{
+				"mode":"QUAD_STRIP", # PARTICLES or QUAD_STRIP, determines which params are used
+				"engineColor":[250,230,250,255],
+				"contrailDuration":1.0,
+				"contrailWidthMult":2.0,
+				"contrailWidthAddedFractionAtEnd":2.5,  # can be negative. makes trail spread out/narrow at the end
+				"contrailMinSeg":5, # min segment length, in pixels
+				"contrailMaxSpeedMult":0.75f,
+				"contrailAngularVelocityMult":0.1f,
+				"contrailColor":[150,120,170,165],
+				"type":"SMOKE" # GLOW or SMOKE; additive or regular blend mode
+			},
+			"width":12.0,
+			"length":12.0,
+			"angle":180.0
+		}
+	]
+}

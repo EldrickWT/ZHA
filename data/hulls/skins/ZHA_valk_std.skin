@@ -1,0 +1,10 @@
+{
+	"baseHullId":ZHA_valk,																		#The base vessel being SKINned.
+	"baseValue":55555,																			#If the vessel has no value listed in ship_data.csv, list one here. Recovered tech comes to mind. Unique otherwise unfindable also.
+	"baseValueMult":1.0,																		#Most applicable if this SKINned version of the vessel does not ordinarily appear in ship_data.csv or wing_data.csv... Bosses and High Value Bounties come to mind.
+	"descriptionPrefix":"Zephyr Hermit Arms has acquired and modified this craft for simulator use only.",		#Appears above the optionally imported description unless this is a SKIN for a WING. Wings get one OR the other... not both.
+	"hullDesignation":"Veritech",																	#ie FRIGATE, FIGHTER, drama even. What appears after hullname. "ISS HerpDerp is a Random Hulk" Hulk is the hulldesignation.
+	"hullName":"Valkyrie Z",																		#What you want displayed... when it is destroyed. "ISS HerpDerp (Random-Class) disabled" for WINGs it is the full name. Random is the hullname.
+	"skinHullId":"ZHA_valk_std",																	#THIS file's name minus extention. This becomes a viable EMPTY hull as if it had a SHIP file referenced with _hull appended (according to Console Commands)
+	"tags":["ZHA_bp"]																			#often used for blueprint (bp) data.
+}

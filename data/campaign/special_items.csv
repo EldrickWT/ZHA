@@ -1,0 +1,4 @@
+name,id,tags,rarity,base price,stack size,cargo space,icon,sound id,sound id drop,plugin,plugin params,desc,order
+Zephyr Hermit Arms Blueprint Package,ZHA_package,package_bp,,50000,1000,1,graphics/icons/cargo/blueprint_hightech.png,ui_chip_pickup,ui_bp_package_drop,com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin,ZHA_bp,Enables heavy industry to construct Zephyr Hermit Arms designs... and their rare imports.,225
+Rare Blueprint Package,rare_package,package_bp,,20000000,1000,1,graphics/icons/cargo/blueprint_basic.png,ui_chip_pickup,ui_bp_package_drop,com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin,rare_bp,A collection of the rarest blueprints in the sector...,280
+Boss Blueprint Package,boss_package,package_bp,,29999999,1000,1,graphics/icons/cargo/blueprint_basic.png,ui_chip_pickup,ui_bp_package_drop,com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin,boss_bp,A collection of ... Ohyoucantbeserious...,281

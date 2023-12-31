@@ -1,0 +1,25 @@
+{
+	"ZHA_furry_fire":
+	[
+		{"file":"sounds/fx/weapons/uwutorpedo1.ogg","pitch":1.0,"volume":0.76},
+		{"file":"sounds/fx/weapons/uwutorpedo2.ogg","pitch":1.0,"volume":0.76},
+		{"file":"sounds/fx/weapons/uwutorpedo3.ogg","pitch":1.0,"volume":0.76},
+		{"file":"sounds/fx/weapons/uwutorpedo1.ogg","pitch":1.03,"volume":0.76},
+		{"file":"sounds/fx/weapons/uwutorpedo2.ogg","pitch":1.03,"volume":0.76},
+		{"file":"sounds/fx/weapons/uwutorpedo3.ogg","pitch":1.03,"volume":0.76},
+		{"file":"sounds/fx/weapons/uwutorpedo1.ogg","pitch":1.015,"volume":0.76},
+		{"file":"sounds/fx/weapons/uwutorpedo2.ogg","pitch":1.015,"volume":0.76},
+		{"file":"sounds/fx/weapons/uwutorpedo3.ogg","pitch":1.015,"volume":0.76}
+	],
+     "plasmachargeboom":
+     [
+          {"file":"sounds/fx/weapons/plasmachargeboom.ogg","pitch":1.0,"volume":0.92},
+          {"file":"sounds/fx/weapons/plasmachargeboom.ogg","pitch":1.07,"volume":0.93},
+          {"file":"sounds/fx/weapons/plasmachargeboom.ogg","pitch":0.99,"volume":0.94},
+          {"file":"sounds/fx/weapons/plasmachargeboom.ogg","pitch":1.04,"volume":0.95},
+          {"file":"sounds/fx/weapons/plasmachargeboom.ogg","pitch":0.97,"volume":0.96}                    
+     ],
+	"yrxp_evade":[
+            {"file":"sounds/yrxp_evade.ogg","pitch":1, "volume":0.5}
+	]
+}

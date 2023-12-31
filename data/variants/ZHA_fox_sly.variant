@@ -1,0 +1,47 @@
+{
+    "displayName": "Sly",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "ZHA_fox",
+    "hullMods": [],
+    "permaMods": [],
+    "quality": 0,
+    "variantId": "ZHA_fox_sly",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+#Hidden, Large, Universal
+                "WS0001": "heavymg",
+                "WS0002": "heavymg"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+#Hidden, Small, Universal
+                "WS0003": "ZHA_duck",
+                "WS0004": "ZHA_duck"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+#Hidden, Medium, Universal
+                "WS0005": "ZHA_twotimesasfurry"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+#Hidden, Small, Turret
+#                "WS0006": ""
+            }
+        }
+    ]
+}

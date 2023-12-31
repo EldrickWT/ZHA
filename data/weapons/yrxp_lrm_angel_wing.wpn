@@ -1,0 +1,31 @@
+{
+	"animationType": "SMOKE",
+	"autocharge": true,
+	"barrelMode": "ALTERNATING",
+	"fireSoundTwo": "launch_flare_1",
+	"turretSprite":"",
+	"hardpointSprite":"",
+	"hardpointOffsets":[0, 0],
+	"turretOffsets":[0, 0],
+	"hardpointAngleOffsets":[0],
+	"turretAngleOffsets":[0],
+	"id": "yrxp_lrm_angel_wing",
+	"projectileSpecId": "yrxp_lrm_angel_wing",
+	"size": "LARGE",
+	"smokeSpec":
+	{
+		"blowbackDuration": 0.45,
+		"blowbackLength": 20,
+		"blowbackParticleCount": 3,
+		"blowbackSpread": 6,
+		"cloudDuration": 1.5,
+		"cloudParticleCount": 1,
+		"cloudRadius": 12,
+		"particleColor": [190, 180, 160, 95],
+		"particleSizeMin": 10,
+		"particleSizeRange": 14
+	},
+	"specClass": "projectile",
+	"textureType": ROUGH,
+	"type": "MISSILE"
+}

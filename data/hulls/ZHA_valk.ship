@@ -1,0 +1,85 @@
+{
+	"bounds": [ 6, -4.5, -11.5, -5.5, -11.5, 5.5, 6, 4.5 ],
+	"builtInMods":
+	[
+		"yrxp_engineering",
+		"yrxp_CeramicHull"
+	],
+	"builtInWings": [],
+	"center": [ 16.5, 15],
+	"collisionRadius": 29,
+	"engineSlots": [
+		{
+			"angle": 180,
+			"contrailSize": 30,
+			"length": 30,
+			"location": [ -9.5, 1 ],
+			"style": "HIGH_TECH",
+			"width": 10
+		},
+		{
+			"angle": 161.5,
+			"contrailSize": 4.413543,
+			"length": 6.010837,
+			"location": [ -7.5, 7 ],
+			"style": "HIGH_TECH",
+			"width": 4.413543
+		},
+		{
+			"angle": -161.5,
+			"contrailSize": 4.413543,
+			"length": 6.010837,
+			"location": [ -7.5, -7 ],
+			"style": "HIGH_TECH",
+			"width": 4.413543
+		}
+	],
+	"height": 47,
+	"hullId": "ZHA_valk",
+	"hullName": "IW-179 Valkyrie",
+	"hullSize": "FRIGATE",
+	"shieldCenter": [ 0, -0],
+	"shieldRadius": 28,
+	"spriteName": "graphics/ships/superfighter/yrxp_superfighter.png",
+	"style": "ZHA_TECH",
+	"viewOffset": 0,
+	"weaponSlots": [
+		{
+			"angle": 0,
+			"arc": 10,
+			"id": "WS0001",
+			"locations": [ 8.5, -2.5 ],
+			"mount": "HIDDEN",
+			"size": "MEDIUM",
+			"type": "HYBRID"
+		},
+		{
+			"angle": 0,
+			"arc": 10,
+			"id": "WS0002",
+			"locations": [ 0, -0 ],
+			"mount": "HIDDEN",
+			"size": "SMALL",
+			"type": "MISSILE"
+		},
+		{
+			"angle": 150.5,
+			"arc": 10,
+			"id": "WS0003",
+			"locations": [ -5, 5.5 ],
+			"mount": "HIDDEN",
+			"size": "SMALL",
+			"type": "MISSILE"
+		},
+		{
+			"angle": -150.5,
+			"arc": 10,
+			"id": "WS0004",
+			"locations": [ -5, -5.5 ],
+			"mount": "HIDDEN",
+			"size": "SMALL",
+			"type": "MISSILE"
+		}
+	],
+	"width": 31
+}

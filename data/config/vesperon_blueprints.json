@@ -1,0 +1,20 @@
+{
+	"availableCacheBlueprints": {
+		"hullSpecIds": [
+			"ZHA_fox_standard",
+			"ZHA_fox_sly"
+		],
+		"weaponSpecIds": [
+			"ZHA_furry",
+			"ZHA_twotimesasfurry",
+			"ZHA_furrylauncher",
+			"ZHA_duck",
+			"ZHA_goose",
+			"ZHA_swan",
+		],
+		"fighterWingIds": [
+			"ZHA_weasel_stan_wing",
+			"ZHA_weasel_wild_wing"
+		]
+	}
+}

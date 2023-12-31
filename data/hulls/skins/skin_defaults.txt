@@ -1,0 +1,32 @@
+{
+	"addHints":[],				#ie HIDE_IN_CODEX
+	"baseHullId":,				#The base vessel being SKINned.
+	"baseValue":,				#If the vessel has no value listed in ship_data.csv, list one here. Recovered tech comes to mind. Unique otherwise unfindable also.
+	"baseValueMult":,			#Most applicable if this SKINned version of the vessel does not ordinarily appear in ship_data.csv or wing_data.csv... Bosses and High Value Bounties come to mind.
+	"builtInMods":[],			#Additive list of hullmods added to the built-in list by this SKIN
+	"builtInWeapons":{},		#List of weapons added to the built-in list by this SKIN. Remove first if not empty.
+	"builtInWings":[],			#Additive list of wings added to the built-in list by this SKIN. Likely Additive. Remove any unwanted wings first.
+	"coversColor":[],			#Changes to 'CoversColor' by this skin.
+	"descriptionId":,			#optional... description of the vessel at this id is copied into the entry in menus. Unneeded if you fill in the entire description on the next line.
+	"descriptionPrefix":,		#Appears above the optionally imported description unless this is a SKIN for a WING. Wings get one OR the other... not both.
+	"engineSlotChanges":{},		#Changes to length, size, alignment, etc
+	"fleetPoints":,			#Cost to add to fleet just like in ship_data.csv
+	"hints":[],				#ie HIDE_IN_CODEX. Might be outdated, due to the new ADD and REMOVE.
+	"hullDesignation":,			#ie FRIGATE, FIGHTER, drama even. What appears after hullname. "ISS HerpDerp is a Random Hulk" Hulk is the hulldesignation.
+	"hullName":,				#What you want displayed... when it is destroyed. "ISS HerpDerp (Random-Class) disabled" for WINGs it is the full name. Random is the hullname.
+	"ordnancePoints":,			#ordinance points before weapon, system, flux, etc are calculated.
+	"rarity":,				#Rarity of the SKINned vessel
+	"removeBuiltInMods":[],		#hullmod ids... "missile_reload", "automatedship"
+	"removeBuiltInWeapons":[],	#weapon slot ids... WSXXX. The Weapon Vanishes from the mount so you can replace it or not.
+	"removeBuiltInWings":[],		#wing ids... the wing vanishes from the hangar so you can replace it or not.
+	"removeEngineSlots":[],		#indices, as engine slots have no id in the .ship file... ESXXX, DRONEXX, FLAREXX, or what have you
+	"removeHints":[],			#ie HIDE_IN_CODEX
+	"removeWeaponSlots":[],		#ids... WSXXX. This mount vanishes. The weapon in the mount vanishes.
+	"restoreToBaseHull":,		#Boolean. Flase use this, true use basehull.
+	"skinHullId":,				#THIS file's name minus extention. This becomes a viable EMPTY hull as if it had a SHIP file referenced with _hull appended (according to Console Commands)
+	"spriteName":,				#What art to use for this SKIN, must match dimensions if you want something you want to look at. :D
+	"systemId":,				#built-it system id(s)
+	"tags":[],				#often used for blueprint (bp) data.
+	"tech":,					#Manufacturer if different from source or otherwise non-existent.
+	"weaponSlotChanges":{},		#Changes to size, type, arc, etc
+}

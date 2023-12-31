@@ -1,0 +1,29 @@
+{
+	"baseHullId":"ZHA_fleet_carrier_2",
+	"descriptionId":"ZHA_fleet_carrier_2",
+	"descriptionPrefix":"The Hull reinvigorated once again for it has many charges in it's care. It is now a Hen House. That said... when the Hen's away the cats will play. Nyao.",
+	"hullDesignation":"Carrier",
+	"hullName":"Cat House",
+	"removeBuiltInWeapons":
+	[
+		"WS0013",
+		"WS0014"
+	],
+	"skinHullId":"ZHA_fleet_carrier_2_cathouse",
+	"tags":["ZHA_bp"],
+	"tech":"ZHA",
+	"builtInWings":
+	[
+		"ZHA_weasel_wild_wing",
+		"ZHA_weasel_wild_wing",
+		"ZHA_weasel_wild_wing",
+		"ZHA_weasel_wild_wing",
+		"ZHA_weasel_wild_wing",
+		"ZHA_weasel_wild_wing"
+	],
+	"weaponSlotChanges":
+	{
+		"WS0013":{"angle":10,"arc":360,"mount":"HIDDEN","size":"SMALL","type":"UNIVERSAL"},
+		"WS0014":{"angle":-10,"arc":360,"mount":"HIDDEN","size":"SMALL","type":"UNIVERSAL"}
+	}
+}

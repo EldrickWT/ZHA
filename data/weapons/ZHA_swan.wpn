@@ -1,0 +1,29 @@
+{
+	"id":"ZHA_swan",
+	"specClass":"projectile",
+	"type":"MISSILE",
+	"size":"LARGE",
+	"turretSprite":"graphics/weapons/ZHA_furrylauncher_turret.png",
+	"turretOffsets":[19, 0],
+	"turretAngleOffsets":[0],
+	"hardpointSprite":"graphics/weapons/ZHA_furrylauncher_hp.png",
+	"hardpointOffsets":[19, 0],
+	"hardpointAngleOffsets":[0],
+	"barrelMode":"LINKED",
+	"animationType": "MUZZLE_FLASH",
+	"textureType": ROUGH,
+	"interruptibleBurst":false,
+	"displayArcRadius":1000,
+	"muzzleFlashSpec":
+	{
+		"length": 15,
+		"particleColor": [119,200,137,125],
+		"particleCount": 10,
+		"particleDuration": 1.5,
+		"particleSizeMin": 10,
+		"particleSizeRange": 20,
+		"spread": 180
+	},
+	"projectileSpecId":"ZHA_furrytorp",
+	"fireSoundTwo":"ZHA_furry_fire"
+}

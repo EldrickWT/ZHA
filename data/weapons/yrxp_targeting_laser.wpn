@@ -1,0 +1,31 @@
+{
+  "id":"yrxp_targeting_laser",
+  "specClass":"beam",
+  "type":"ENERGY",
+  "size":"SMALL",
+
+  "collisionClass":"RAY",
+  "collisionClassByFighter":"RAY_FIGHTER",
+  "turretSprite":"graphics/weapons/yrxp_targeting_laser_turret_base.png",
+  "turretGlowSprite":"graphics/weapons/yrxp_targeting_laser_turret_glow.png",
+  "turretUnderSprite":"graphics/weapons/yrxp_targeting_laser_turret_under.png",
+  "hardpointSprite":"graphics/weapons/yrxp_targeting_laser_hardpoint_base.png",
+  "hardpointGlowSprite":"graphics/weapons/yrxp_targeting_laser_hardpoint_glow.png",
+  "turretOffsets":[13.5,0],
+  "turretAngleOffsets":[0],
+  "hardpointOffsets":[15,0],
+  "hardpointAngleOffsets":[0],
+
+  "fringeColor":[0,155,0,255],
+  "hitGlowRadius":0,
+  "glowColor":[100,255,100,255],
+  "coreColor":[255, 255, 255, 255],
+
+  "width":4,
+  "textureType":ROUGH,
+  "textureScrollSpeed":64,
+  "pixelsPerTexel":5,
+  "pierceSet":[PROJECTILE_FF,PROJECTILE_NO_FF,PROJECTILE_FIGHTER],
+  "fireSoundOne":"laser_intro",
+  "fireSoundTwo":"pd_laser_loop"
+}

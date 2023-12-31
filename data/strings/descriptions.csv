@@ -1,0 +1,30 @@
+id,type,text1,text2,text3,notes
+ZHA_furry,WEAPON,"The Furry Plasma Weapon. The engine is so stronk it is itself the warhead. Let your target's flux system feel the fury of the Furry, and their hull melt... green with envy.
+
+uwu.",Drama,,
+ZHA_twotimesasfurry,WEAPON,"A rack of Furry Plasma Weapons and their stronk engines. Let your target's flux system feel the fury of the Furry, and their hull melt... green with envy.
+
+Twice the uwu.",Drama,,
+ZHA_furrylauncher,WEAPON,"A reliable launch platform for the fast, volatile, and oh so uwu, Furry Plasma Weapon. A built-in capacitor removes a lesser mount's flux cost. Not for the target's flux system or hull.
+
+uwu for days.",Drama,,
+ZHA_duck,WEAPON,"The Feathers will fly in a burst of 8 not so deadly but oh so numerous freshly hatched plasma feathered friends aimed to make fighters vacate your airspace with prejudice
+
+Quack.",Anti-Fighter,,
+ZHA_goose,WEAPON,"The Feathers will fly in a burst of 16 not so deadly but oh so numerous freshly hatched plasma feathered friends aimed to make fighter pilots NOT worth their salt into salt
+
+HONK.",Anti-Fighter,,
+ZHA_swan,WEAPON,"The Feathers will fly in a burst of 32 not so deadly but awe-inspiring -and spammy- freshly hatched plasma feathered friends aimed to make fighter pilots NOT worth their salt into dust
+
+HONK HONK.",Anti-Fighter,,
+ZHA_mince_sml,WEAPON,"A Beam Emitter with a Slaved AI core, and no sense of personal space, it minces right up to target craft and gets quite touchy and feely with hulls and shield systems... well and anything in the way. Can be quite the charmer and very disarming when it tries and target weapon systems tend to aggree along with jealous engines.",Close Support,,
+ZHA_mince_med,WEAPON,"A Beam Emitter with a Slaved AI core, and no sense of personal space, it minces right up to target craft and gets quite touchy and feely with hulls and shield systems... well and anything in the way. Can be quite the charmer and very disarming when it tries and target weapon systems tend to aggree along with jealous engines.",Close Support,,
+ZHA_mince_lrg,WEAPON,"A Beam Emitter with a Slaved AI core, and no sense of personal space, it minces right up to target craft and gets quite touchy and feely with hulls and shield systems... well and anything in the way. Can be quite the charmer and very disarming when it tries and target weapon systems tend to aggree along with jealous engines.",Close Support,,
+ZHA_thot_cannon_sml,WEAPON,"Personed by a thotty thirsty member of the crew or military, they use their powaa to track targets and eliminate them with this cannon.",Drama,,
+ZHA_thot_cannon_med,WEAPON,"Personed by a much thottier much thirstier member of the crew or military, they use their powaa to track targets and eliminate them with this powaaful cannon.",Drama,,
+ZHA_thot_cannon_lrg,WEAPON,"Personed by one of the thottiest and thirstiest members of the crew or military, they use their extreme powaa to track targets and eliminate them with this powaaful cannon.",Drama,,
+ZHA_fox,SHIP,"A Fox for all your raiding the henhouse needs. Bring Several to cover all entrances and exits for maximum target penetration.",,,
+ZHA_weasel,SHIP,"A Confusion of Weasels for filling lonely sad hangars. Bring Several Confusions to cover all entrances and exits for loneliness removal. So friendly.",,,
+ZHA_fleet_carrier_2,SHIP,"Originally found adrift, the Hermit could not leave the poor vessel to wander the stars alone a second longer. Careful funds were allocated to the distant families, and a refit crew acquired. Packed with fighters, pilots, and other crew... loneliness is a thing of the past once again. She has an audience to dance for afterall.",,,
+ZHA_valk,SHIP,"Purchased by the Hermit themselves for simulator work alone. Physical Design the only trade secret, and it will suffice. Otherwise the fleet doctrine is already outfitted with fighters. Maybe there's a lost secret of the past of the former sleeper and forlorn friend to Furries... well and other Strays.",,,
+yrxp_angel_flutter,SHIP_SYSTEM,"Activates the ship's defensive battery of flares and intercept missiles, flooding the immediate area with ordinance. At the same time, the ships engage its emergency thrusters to perform a 180 degree turn, allowing it to escape at maximum speed.",Special,,
