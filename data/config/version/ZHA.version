@@ -1,11 +1,11 @@
 {
-    "masterVersionFile":"https://github.com/EldrickWT/ZHA/ZHA.version",
+    "masterVersionFile":"https://github.com/EldrickWT/ZHA/data/config/version/ZHA.version",
     "modName":"Zephyr Hermit Arms",
-    #"modThreadId":12243,
+    #"modThreadId":,
     "modVersion":
     {
         "major":0,
-        "minor":1,
-        "patch":0
+        "minor":0,
+        "patch":2
     }
 }

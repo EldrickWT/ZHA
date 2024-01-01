@@ -1,0 +1,38 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 10,
+    "fluxVents": 10,
+    "goalVariant": true,
+    "hullId": "ZHA_valk_skn",
+    "hullMods": [],
+    "permaMods": [],
+    "quality": 0,
+    "variantId": "ZHA_valk_std",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+#Hidden, Medium, Hybrid
+                "WS0001": "ZHA_thot_cannon_med"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+#Hidden, Small, Missile
+                "WS0002": "ZHA_duck",
+                "WS0003": "ZHA_duck"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+#Hidden, Small, Missile
+                "WS0004": "ZHA_furry"
+            }
+        }
+    ]
+}

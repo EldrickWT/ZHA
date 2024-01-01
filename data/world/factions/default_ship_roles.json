@@ -6,11 +6,11 @@
 	"combatSmall":{
 	},
 	"combatMedium":{
-		"ZHA_fox_standard":0
+		"ZHA_fox_standard":1
 	},
 	"combatLarge":{
-		"ZHA_fox_sly":0,
-		"ZHA_fox_sexy_standard":0
+		"ZHA_fox_sly":1,
+		"ZHA_fox_sexy_standard":1
 	},
 	"combatCapital":{
 	},
@@ -27,8 +27,8 @@
 	"carrierMedium":{
 	},
 	"carrierLarge":{
-		"ZHA_fleet_carrier_2_henhouse_std":0,
-		"ZHA_fleet_carrier_2_cathouse_std":0
+		"ZHA_fleet_carrier_2_henhouse_std":1,
+		"ZHA_fleet_carrier_2_cathouse_std":1
 	},
 	"phaseSmall":{
 	},
