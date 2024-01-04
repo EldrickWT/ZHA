@@ -1,4 +1,5 @@
 name,id,tech/manufacturer,tags,rarity,tier,base value,range,damage/second,damage/shot,emp,impact,turn rate,OPs,ammo,ammo/sec,reload size,energy/shot,type,energy/second,chargeup,chargedown,burst size,burst delay,min spread,max spread,spread/shot,spread decay/sec,beam speed,proj speed,launch speed,flight time,proj hitpoints,primaryRoleStr,customPrimary,customPrimaryHL,customAncillary,customAncillaryHL,noDPSInTooltip,hints,groupTag,number
+# -REFERENCE- https://starsector.fandom.com/wiki/Weapon_data.csv
 #Furries for Everyone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 Furry-class Weapon (Single),ZHA_furry,"Zephyr Hermit Arms","ZHA_bp",,1,5555,6000,,2500,1000,60,55,20,10,,2,300,ENERGY,,0,2,2,0.1,0,0,0,0,,1000,350,16,550,Drama,,,,,,"PD_ALSO,USE_VS_FRIGATES",,
 Furry-class Weapon Rack,ZHA_twotimesasfurry,"Zephyr Hermit Arms","ZHA_bp",,1,55555,6000,,2500,1000,60,55,40,20,,4,300,ENERGY,,0,2,4,0.1,0,0,0,0,,1000,350,16,550,Drama,,,,,,"PD_ALSO,USE_VS_FRIGATES",,

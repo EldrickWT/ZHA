@@ -40,7 +40,7 @@
 	"hullSize": "FRIGATE",
 	"shieldCenter": [ 0, -0],
 	"shieldRadius": 28,
-	"spriteName": "graphics/ships/superfighter/yrxp_superfighter.png",
+	"spriteName": "graphics/YRXP/ships/superfighter/yrxp_superfighter.png",
 	"style": "ZHA_TECH",
 	"viewOffset": 0,
 	"weaponSlots": [

@@ -2,7 +2,7 @@
 	"hullName":"Empyrean Wing",
 	"hullId":"ZHA_fleet_carrier_2",
 	"hullSize":"CAPITAL_SHIP",
-	"spriteName":"graphics/ships/yrxp_fleet_carrier_2.png",
+	"spriteName":"graphics/YRXP/ships/yrxp_fleet_carrier_2.png",
 	"style":"ZHA_TECH",
 	"height":149,
 	"width":501,

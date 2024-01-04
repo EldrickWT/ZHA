@@ -1,0 +1,13 @@
+{
+	"masterVersionFile":"https://raw.githubusercontent.com/EldrickWT/ZHA/main/EldrickWT_ZHA.version",
+	"modName":"Zephyr Hermit Arms",
+	"modVersion":
+	{
+		"major": 0,
+		"minor": 0,
+		"patch": 2a # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
+	},
+	#"modThreadId":,
+	"directDownloadURL": "https://github.com/EldrickWT/ZHA/releases/download/0.0.2a/ZHA-0.0.2a.zip",
+	#"changelogURL": "https://raw.githubusercontent.com/EldrickWT/ZHA/main/ZHA_CHANGELOGS.md",
+}

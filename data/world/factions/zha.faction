@@ -1,0 +1,159 @@
+{
+	id:"zha",
+	"color":[135,206,255,255],
+	"displayName":"Zephyr H A",
+	"displayNameWithArticle":"Zephyr H A",
+	"displayNameLong":"Zephyr Hermit Arms",
+	"displayNameLongWithArticle":"the Zephyr Hermit Arms",
+	"entityNamePrefix":"",
+	"personNamePrefix":"hermit",
+	"personNamePrefixAOrAn":"an",
+	"displayNameIsOrAre":"are",
+	"logo":"graphics/factions/tritachyon.png",
+	"crest":"graphics/factions/crest_tritachyon.png",
+	"shipNamePrefix":"ZHS",
+	"showInIntelTab":true,
+	"shipNameSources":{
+		"JAPANESE":2,
+		"EGYPTIAN":2,
+		"NORDIC":1,
+	},
+	"description":"No description yet.",
+	"names":{
+		"modern":1,
+		"world":1,
+		"future":1,
+		"myth":1,
+	},
+	"hullFrequency":{
+		"tags":{"ZHA_bp":1
+		},
+		"hulls":{"ZHA_fox_standard":1
+		},
+	},
+	"shipsWhenImporting":{
+		"tags":["ZHA_bp"],
+		"hulls":[
+		],
+	},
+	"knownShips":{
+		"tags":["ZHA_bp"],
+		"hulls":[
+		],
+	},
+	"priorityShips":{
+		"tags":["ZHA_bp"],
+		"hulls":[
+		],
+	},
+	"knownFighters":{
+		"tags":["ZHA_bp"],
+		"fighters":[
+		],
+	},
+	"priorityFighters":{
+		"tags":["ZHA_bp"],
+		"fighters":[
+		],
+	},
+	"knownWeapons":{
+		"tags":["base_bp", "lowtech_bp", "midline_bp", "missile_bp", "hightech_bp", "ZHA_bp"],
+		"weapons":[
+		],
+	},
+	"priorityWeapons":{
+		"tags":["ZHA_bp"],
+		"weapons":[
+		],
+	},
+	"knownHullMods":{
+		"tags":["standard", "base_bp", "ZHA_bp"],
+		"hullMods":[
+		],
+	},
+	"hullmodSellFrequency":{
+		"hardenedshieldemitter":10,
+		"pointdefenseai":10,
+		"hiressensors":10,
+	},		
+	"factionDoctrine":{
+		"warships":2,
+		"carriers":3,
+		"phaseShips":2,
+		
+		"officerQuality":1,
+		"shipQuality":5,
+		"numShips":1,
+		
+		"shipSize":7,
+		
+		"aggression":2,
+		
+		"combatFreighterProbability":0,     				# instead of some portion of the freighters in a fleet
+		"combatFreighterCombatUseFraction":0,  				# as part of the normal combat lineup
+		"combatFreighterCombatUseFractionWhenPriority":0,		# as part of normal combat lineup, when marked as priority ship
+		"autofitRandomizeProbability":0.1,
+
+		"officerSkillsShuffleProbability":1f,
+		"officerSkills":[
+			"energy_weapon_mastery",
+			"field_modulation",
+		],
+		"commanderSkillsShuffleProbability":1,
+		"commanderSkills":[
+			"electronic_warfare",
+			"flux_regulation",
+			"cybernetic_augmentation",
+		],
+	},
+	"illegalCommodities":[
+		"drugs",
+	],
+	"internalComms":"zha_internal",
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/portrait13.png",
+			"graphics/portraits/portrait18.png",
+			"graphics/portraits/portrait25.png",
+			"graphics/portraits/portrait26.png",
+			"graphics/portraits/portrait30.png",
+			"graphics/portraits/portrait35.png",
+		],
+		"standard_female":[
+			"graphics/portraits/portrait16.png",
+			"graphics/portraits/portrait21.png",
+			"graphics/portraits/portrait28.png",
+			"graphics/portraits/portrait32.png",
+			"graphics/portraits/portrait34.png",
+			"graphics/portraits/portrait41.png",
+		],
+	},
+	"custom":{
+		"decentralized":false,
+		"exemptFromFoodShortages":true,
+		"willTradeWhenHostile":true,
+		"engageWhenEvenStrength":true,
+		"allowsTransponderOffTrade":true,
+		"offerMissionsWhenHostile":true,
+		"postsNoBounties":false,
+		"offersCommissions":true,
+		"engagesInHostilities":true,
+		"buysAICores":true,
+		"AICoreValueMult":5,
+		"AICoreRepMult":2.5,
+		"ignoreTradeWithEnemiesForReputation":true,
+		"patrolsHaveNoPatrolMemoryKey":false,
+		"pirateBehavior":false,
+		"fightToTheLast":false,
+		"buysSurveyData":true,
+		"hostilityImpactOnGrowth":true,
+		"caresAboutAtrocities":true,
+		"punitiveExpeditionData":{
+			"vsCompetitors":false,
+			"vsFreePort":false,
+			"canBombard":true,
+			"territorial":false,
+		},
+	}
+}
+

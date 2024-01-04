@@ -2,7 +2,7 @@
 	"id":"yrxp_lrm_angel_wing",
 	"specClass":"missile",	
 	"missileType":"MISSILE",
-	"sprite":"graphics/missiles/yrxp_sparkler.png",
+	"sprite":"graphics/YRXP/missiles/yrxp_sparkler.png",
 	"size":[8,18],	
 	"center":[4,9],
 	"collisionRadius":9,

@@ -1,25 +1,50 @@
 {
+# Any custom music your mod adds can be added here, then played via code using one of the song methods in `Global.getSoundPlayer()`.
+# "music":{
+#		"music_campaign":[
+#			{"file":"miscallenous_corvus_campaign_music.ogg","source":"sounds/music/music.bin","volume":1}, 
+#		],
+#
+# 'source' can also be a directory
+#		"music_default_market_neutral":[
+#			{
+#				"source":"sounds/music/music.bin",
+#				"volume":0.8,
+#				"files":[
+#					"faction_generic_market_01_neutral_var01.ogg",
+#					"faction_generic_market_01_neutral_var02.ogg",
+#				],
+#				"randomStart":true, 
+#			},
+#		],
+#	},
+# Loose sound files for anything else, e.g. weapons, systems, or any other effects.
+# They may be played via code using one of the sound methods in `Global.getSoundPlayer()`.
+#    "mote_attractor_launch_mote":[
+#            {"file":"sounds/sfx_systems/mote_attractor_spawn_01.ogg","pitch":1,"volume":0.4},
+#            {"file":"sounds/sfx_systems/mote_attractor_spawn_02.ogg","pitch":1,"volume":0.4},
+#    ],
 	"ZHA_furry_fire":
 	[
-		{"file":"sounds/fx/weapons/uwutorpedo1.ogg","pitch":1.0,"volume":0.76},
-		{"file":"sounds/fx/weapons/uwutorpedo2.ogg","pitch":1.0,"volume":0.76},
-		{"file":"sounds/fx/weapons/uwutorpedo3.ogg","pitch":1.0,"volume":0.76},
-		{"file":"sounds/fx/weapons/uwutorpedo1.ogg","pitch":1.03,"volume":0.76},
-		{"file":"sounds/fx/weapons/uwutorpedo2.ogg","pitch":1.03,"volume":0.76},
-		{"file":"sounds/fx/weapons/uwutorpedo3.ogg","pitch":1.03,"volume":0.76},
-		{"file":"sounds/fx/weapons/uwutorpedo1.ogg","pitch":1.015,"volume":0.76},
-		{"file":"sounds/fx/weapons/uwutorpedo2.ogg","pitch":1.015,"volume":0.76},
-		{"file":"sounds/fx/weapons/uwutorpedo3.ogg","pitch":1.015,"volume":0.76}
+		{"file":"sounds/BRDY/fx/weapons/uwutorpedo1.ogg","pitch":1.0,"volume":0.76},
+		{"file":"sounds/BRDY/fx/weapons/uwutorpedo2.ogg","pitch":1.0,"volume":0.76},
+		{"file":"sounds/BRDY/fx/weapons/uwutorpedo3.ogg","pitch":1.0,"volume":0.76},
+		{"file":"sounds/BRDY/fx/weapons/uwutorpedo1.ogg","pitch":1.03,"volume":0.76},
+		{"file":"sounds/BRDY/fx/weapons/uwutorpedo2.ogg","pitch":1.03,"volume":0.76},
+		{"file":"sounds/BRDY/fx/weapons/uwutorpedo3.ogg","pitch":1.03,"volume":0.76},
+		{"file":"sounds/BRDY/fx/weapons/uwutorpedo1.ogg","pitch":1.015,"volume":0.76},
+		{"file":"sounds/BRDY/fx/weapons/uwutorpedo2.ogg","pitch":1.015,"volume":0.76},
+		{"file":"sounds/BRDY/fx/weapons/uwutorpedo3.ogg","pitch":1.015,"volume":0.76}
 	],
      "plasmachargeboom":
      [
-          {"file":"sounds/fx/weapons/plasmachargeboom.ogg","pitch":1.0,"volume":0.92},
-          {"file":"sounds/fx/weapons/plasmachargeboom.ogg","pitch":1.07,"volume":0.93},
-          {"file":"sounds/fx/weapons/plasmachargeboom.ogg","pitch":0.99,"volume":0.94},
-          {"file":"sounds/fx/weapons/plasmachargeboom.ogg","pitch":1.04,"volume":0.95},
-          {"file":"sounds/fx/weapons/plasmachargeboom.ogg","pitch":0.97,"volume":0.96}                    
+          {"file":"sounds/BRDY/fx/weapons/plasmachargeboom.ogg","pitch":1.0,"volume":0.92},
+          {"file":"sounds/BRDY/fx/weapons/plasmachargeboom.ogg","pitch":1.07,"volume":0.93},
+          {"file":"sounds/BRDY/fx/weapons/plasmachargeboom.ogg","pitch":0.99,"volume":0.94},
+          {"file":"sounds/BRDY/fx/weapons/plasmachargeboom.ogg","pitch":1.04,"volume":0.95},
+          {"file":"sounds/BRDY/fx/weapons/plasmachargeboom.ogg","pitch":0.97,"volume":0.96}                    
      ],
 	"yrxp_evade":[
-            {"file":"sounds/yrxp_evade.ogg","pitch":1, "volume":0.5}
+            {"file":"sounds/YRXP/fx/systems/yrxp_evade.ogg","pitch":1, "volume":0.5}
 	]
 }

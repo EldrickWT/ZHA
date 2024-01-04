@@ -63,7 +63,7 @@
 	#"hullSize": "FIGHTER",
 	"shieldCenter": [3.5, 0],
 	"shieldRadius": 61.5,
-	"spriteName": "graphics/ships/ZHA_fox.png", #Art and Design 'Neutrino Corp Mod', pixel and flood fill recolor Eldrick Tobin
+	"spriteName": "graphics/ZHA/ships/ZHA_fox.png", #Art and Design 'Neutrino Corp Mod', pixel and flood fill recolor Eldrick Tobin
 	"style": "ZHA_TECH",
 	"viewOffset": 0,
 	"weaponSlots": [

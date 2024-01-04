@@ -28,7 +28,7 @@
 			"particleCount":11,
 			"particleColor":[255,120,105,250]
 		},
-	"projectileSpecId":"thotshot_sml",	# projectile that will be fired
+	"projectileSpecId":"thotshot_med",	# projectile that will be fired
 	#"fireSoundOne":"heavy_machinegun_intro",
 	"fireSoundTwo":"heavy_machinegun_fire",
 }

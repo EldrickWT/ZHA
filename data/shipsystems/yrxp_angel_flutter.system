@@ -2,9 +2,9 @@
     "id":"yrxp_angel_flutter",
     "type":"STAT_MOD",
     "aiType":"CUSTOM",
-    "aiScript":"data.scripts.shipsystems.ai.yrxp_AngelFlutterAI",
+    "aiScript":"data.scripts.yrxp.shipsystems.ai.yrxp_AngelFlutterAI",
 
-    "statsScript":"data.scripts.shipsystems.yrxp_AngelFlutterStats",
+    "statsScript":"data.scripts.yrxp.shipsystems.yrxp_AngelFlutterStats",
     "runScriptWhilePaused":true, # only for the player's ship
 
     "engineGlowLengthMult":1.5,

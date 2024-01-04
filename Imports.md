@@ -26,9 +26,9 @@ plastered in 3 places because adaptable Veritech Art might not exist without ski
 a SELF ONLY project like this."
 
 3. 3 I said. Ha. std, wld, sxy... then also the 2 wings... so thats 5. And if you check out the title
-screen and sim opponents files... practically everything is listed as Neutrino's own opponent and title
-varients were a tad anemic. (Nothing fancy with the *_vanilla varients. Those just don't have *SpawnEmpArc*
-hullmods, weapons, etc)
+screen and sim opponents files... practically everything is listed as... Neutrino's own opponent and title
+varients were a tad... anemic. (Nothing fancy with the *_vanilla varients. Those just don't have *SpawnEmpArc*
+hullmods, weapons, etc... or much of anything for **safety**)
 
 Who do I have to blame for all this asset theft?
 

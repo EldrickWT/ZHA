@@ -1,4 +1,5 @@
 id,type,text1,text2,text3,notes
+# Types: WEAPON,SHIP,RESOURCE,CUSTOM,ACTION_TOOLTIP,ASTEROID,PLANET,SHIP_SYSTEM,FACTION,TERRAIN
 ZHA_furry,WEAPON,"The Furry Plasma Weapon. The engine is so stronk it is itself the warhead. Let your target's flux system feel the fury of the Furry, and their hull melt... green with envy.
 
 uwu.",Drama,,
@@ -17,9 +18,9 @@ HONK.",Anti-Fighter,,
 ZHA_swan,WEAPON,"The Feathers will fly in a burst of 32 not so deadly but awe-inspiring -and spammy- freshly hatched plasma feathered friends aimed to make fighter pilots NOT worth their salt into dust
 
 HONK HONK.",Anti-Fighter,,
-ZHA_mince_sml,WEAPON,"A Beam Emitter with a Slaved AI core, and no sense of personal space, it minces right up to target craft and gets quite touchy and feely with hulls and shield systems... well and anything in the way. Can be quite the charmer and very disarming when it tries and target weapon systems tend to aggree along with jealous engines.",Close Support,,
-ZHA_mince_med,WEAPON,"A Beam Emitter with a Slaved AI core, and no sense of personal space, it minces right up to target craft and gets quite touchy and feely with hulls and shield systems... well and anything in the way. Can be quite the charmer and very disarming when it tries and target weapon systems tend to aggree along with jealous engines.",Close Support,,
-ZHA_mince_lrg,WEAPON,"A Beam Emitter with a Slaved AI core, and no sense of personal space, it minces right up to target craft and gets quite touchy and feely with hulls and shield systems... well and anything in the way. Can be quite the charmer and very disarming when it tries and target weapon systems tend to aggree along with jealous engines.",Close Support,,
+ZHA_mince_sml,WEAPON,"A Beam Emitter with a Slaved AI core, and no sense of personal space, it minces right up to target craft and gets quite touchy and feely with hulls and shield systems... well and anything in the way. Can be quite the charmer and very disarming when it tries and the target weapon systems tend to agree... along with jealous engines.",Close Support,,
+ZHA_mince_med,WEAPON,"A Beam Emitter with a Slaved AI core, and no sense of personal space, it minces right up to target craft and gets quite touchy and feely with hulls and shield systems... well and anything in the way. Can be quite the charmer and very disarming when it tries and the target weapon systems tend to agree... along with jealous engines.",Close Support,,
+ZHA_mince_lrg,WEAPON,"A Beam Emitter with a Slaved AI core, and no sense of personal space, it minces right up to target craft and gets quite touchy and feely with hulls and shield systems... well and anything in the way. Can be quite the charmer and very disarming when it tries and the target weapon systems tend to agree... along with jealous engines.",Close Support,,
 ZHA_thot_cannon_sml,WEAPON,"Personed by a thotty thirsty member of the crew or military, they use their powaa to track targets and eliminate them with this cannon.",Drama,,
 ZHA_thot_cannon_med,WEAPON,"Personed by a much thottier much thirstier member of the crew or military, they use their powaa to track targets and eliminate them with this powaaful cannon.",Drama,,
 ZHA_thot_cannon_lrg,WEAPON,"Personed by one of the thottiest and thirstiest members of the crew or military, they use their extreme powaa to track targets and eliminate them with this powaaful cannon.",Drama,,

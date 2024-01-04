@@ -1,9 +1,30 @@
 {
-	"id":"ZHA",
+	"id":"EldrickWT_ZHA",
 	"name":"Zephyr Hermit Arms",
-	"author":"Eldrick Tobin, but mostly others",
-	"version":"0.0.2",
+	"author":"EldrickWT, but mostly others",
+	"utility":"false",
+	"version":"0.0.2a",
 	"description":"Nexerelin Compatible. LazyLib, GraphicsLib and MagicLib Required. A weird little mod pack with some TWEAKED weapons from other authors. List of -STOLEN- Assets for this SELF ONLY project: Black Rock Drive Yards for the Fury Torpedo and it's option line (3 weapons, one launcher, and 1 projectile heavily modified in code but not art). I also used the primary launcher for all three sizes of a second set of three missile/weapon systems, and again the torpedo for the system's projectile. Neutrino Corp for various Fighter Art ie neutrino_falken.png which I mirrored, recolored and plastered in 3 places because adaptable Veritech Art might not exist without skills I don't possess for a SELF ONLY project like this. FPE for the Mintz line which at the time of snagging was the level of vicious I was looking to edit the Tachyon Lance into, and in snagging removed some steps. Especially the change in java file location. I'd have bashed my brains out on that wall.",
 	"gameVersion":"0.96a-RC10",
+	#"jars":["jars/EldrickWT/ZHA/EldrickWT_ZHA.jar"],
+	#"modPlugin":"eldrickwt.zha.eldrickwt_zhamodplugin",
+	"dependencies":
+	[
+		{
+			"id": "lw_lazylib",
+			"name": "LazyLib",
+			#"version": "2.7b"
+		},
+		{
+			"id": "MagicLib",
+			"name": "MagicLib",
+			#"version": "0.34"
+		},
+		{
+			"id": "shaderLib",
+			"name": "GraphicsLib",
+			#"version": "1.5.1"
+		}
+	],
 	"suppressVCUnsupported":true
 }
