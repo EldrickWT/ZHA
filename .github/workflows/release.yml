@@ -51,3 +51,4 @@ jobs:
           prerelease: '${{ env.IS_PRERELEASE }}'
           token: ${{ secrets.GITHUB_TOKEN }}
           artifacts: ".github/workflows/artifacts/*"
+          allowUpdates = "true"
