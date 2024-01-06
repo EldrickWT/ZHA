@@ -5,9 +5,9 @@
 	{
 		"major": 0,
 		"minor": 0,
-		"patch": 2a # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
+		"patch": 2b # Can be a number, character or string (1, 2, a, b, "-RC2", etc)
 	},
 	#"modThreadId":,
-	"directDownloadURL": "https://github.com/EldrickWT/ZHA/releases/download/v0.0.2a-patch/ZHA.zip",
+	"directDownloadURL": "https://github.com/EldrickWT/ZHA/releases/download/v0.0.2b/ZHA.zip",
 	#"changelogURL": "https://raw.githubusercontent.com/EldrickWT/ZHA/main/ZHA_CHANGELOGS.md",
 }
