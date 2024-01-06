@@ -1,0 +1,34 @@
+{
+	"companies":{
+		"zha_hermits":{
+			"name":"ZHA Hermits",
+			"desc":"A small group of Zephyr 'Hermits' with unusual warmachines. They are probably bored, and in the middle of something else. Then they saw you.",
+			"logo":"graphics/zha/factions/zha_crest.png",
+			"feeUpfront":80000,
+			"feeMonthly":2500,
+			"faction":"zha",
+			"minRep":"SUSPICIOUS",
+			"minLevel":5,
+			"ships":[
+				["zha_fox_sly"],
+				["zha_fox_standard"],
+				["zha_fox_standard"],
+			],
+			"officers":[
+				{
+					"level":5,
+					"rankId":"spaceCommander"
+				},
+				{
+					"level":4
+				},
+				{
+					"level":3
+				}
+			],
+			"averageSMods":2,
+			"pickChance":0.75
+		}
+
+	}
+}

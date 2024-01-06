@@ -9,8 +9,8 @@
 	"personNamePrefix":"hermit",
 	"personNamePrefixAOrAn":"an",
 	"displayNameIsOrAre":"are",
-	"logo":"graphics/factions/tritachyon.png",
-	"crest":"graphics/factions/crest_tritachyon.png",
+	"logo":"graphics/zha/factions/zha_banner.png",
+	"crest":"graphics/zha/factions/zha_crest.png",
 	"shipNamePrefix":"ZHS",
 	"showInIntelTab":true,
 	"shipNameSources":{
@@ -18,7 +18,7 @@
 		"EGYPTIAN":2,
 		"NORDIC":1,
 	},
-	"description":"No description yet.",
+	"description":"The Hermit slept for ... well just too long. Adrift, Isolated. He'd wake get his bearings, sigh, and sleep again till an automated system roused him once more. The last time was serendipity. A collision. A vessel equally adrift, but fueled! He has since rejoined the sector, and has a penchant for giving derelict, junked, and adrift vessels new homes. His personal and organization beliefs get him accused of being an AI.",
 	"names":{
 		"modern":1,
 		"world":1,
