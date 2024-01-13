@@ -1,0 +1,21 @@
+{
+	"baseHullId":"ZHA_weasel",		# The base vessel being SKINned.
+	"skinHullId":"ZHA_weasel_stoat",	# THIS file's name minus extention. This becomes a viable EMPTY hull as if it had a SHIP file referenced with _hull appended.
+	"hullName":"Stoat (Phase Weasel)",	# What you want displayed... when it is destroyed. "ISS HerpDerp (Random-Class) disabled" for WINGs it is the full name.
+	"descriptionId":"ZHA_weasel",		# optional... if you fill in the entire description on the next line.
+	"descriptionPrefix":"When you need more weapons quietly delivered you call a Stoat...", # Appears above the optionally imported description unless this is a SKIN for a WING.
+	"engineSlotChanges":
+	{
+		"0":{"style": "ZHA_ENGINE"},
+		"1":{"style": "ZHA_ENGINE"},
+		"2":{"style": "ZHA_ENGINE"},
+		"3":{"style": "ZHA_ENGINE"},
+		"4":{"style": "ZHA_ENGINE"},
+		"5":{"style": "ZHA_ENGINE"}
+	},
+	"spriteName":"graphics/ZHA/ships/ZHA_weasel_stoat.png", #Art and Design 'Neutrino Corp Mod', pixel and flood fill recolor Eldrick Tobin
+	"systemId":"phasecloak",
+	"baseValueMult":1.5,			# Most applicable if the vessel does not ordinarily appear in ship_data.csv or wing_data.csv... Bosses and High Value Bounties come to mind.
+	"tags":["ZHA_bp", "special_allows_system_use", "system_allows_special_use", "automated_fighter"],	#often used for blueprint (bp) data.
+	"tech":ZHA					#Manufacturer if different from source or otherwise non-existent.
+}

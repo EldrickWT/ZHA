@@ -1,0 +1,47 @@
+{
+    "displayName": "",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": true,
+    "hullId": "ZHA_weasel_stoat",
+    "hullMods": ["efficiency_overhaul"],
+    "permaMods": ["no_weapon_flux"],
+    "quality": 0,
+    "variantId": "ZHA_weasel_stoat_standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+#Hidden, Large, Universal
+                "WS0001": "ZHA_thot_cannon_lrg",
+                "WS0002": "ZHA_thot_cannon_lrg"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+#Hidden, Small, Universal
+                "WS0003": "ZHA_duck",
+                "WS0004": "ZHA_duck"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+#Hidden, Medium, Universal
+                "WS0005": "ZHA_twotimesasfurry"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+#Hidden, Small, Turret
+                "WS0006": "ZHA_mince_sml"
+            }
+        }
+    ]
+}

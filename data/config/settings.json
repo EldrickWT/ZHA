@@ -13,8 +13,8 @@
 	#"ruleCommandPackages":[
 	#	 "com.fs.starfarer.api.impl.campaign.rulecmd",
 	#],
-	
-    # This section is where we can define images that can be referenced ingame using Global.getSettings().getSpriteName("category", "name");
+
+	# This section is where we can define images that can be referenced ingame using Global.getSettings().getSpriteName("category", "name");
 	#"graphics":{
 	#	"category":{ "name":"graphics/ui/sector_age_young.png", }
 	#}
