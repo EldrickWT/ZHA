@@ -1,0 +1,18 @@
+{
+	"hullId": "flare",
+	"variantId": "flare_pd",
+	"displayName": "Point Defense Savant",
+	"fluxCapacitors": 0,
+	"fluxVents": 0,
+	"quality": 9,
+	"hullMods":["efficiency_overhaul", "no_weapon_flux", "turretgyros", "pointdefenseai", "automated", "fluxbreakers", "shield_always_on", "supercomputer"],
+	"systemId":"forgevats",
+	"weaponGroups":[
+		#Hidden, Medium, Universal
+		{"mode":"LINKED", "weapons":{"WS 001":"ZHA_twotimesasfurry",},},
+		#Hidden, SMALL, Universal
+		{"mode":"LINKED", "weapons":{"WS 002":"ZHA_mince_sml",},},
+		#Hidden, SMALL, Universal
+		{"mode":"LINKED", "weapons":{"WS 003":"ZHA_mince_sml",},},
+	],
+}

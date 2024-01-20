@@ -11,7 +11,7 @@
 			"contrailSize": 5,
 			"length": 25,
 			"location": [-17.25, 6.25],
-			"style": "HIGH_TECH",
+			"style": "ZHA_TECH",
 			"width": 5
 		},
 		{
@@ -19,7 +19,7 @@
 			"contrailSize": 5,
 			"length": 25,
 			"location": [-17.25,-6.25],
-			"style": "HIGH_TECH",
+			"style": "ZHA_TECH",
 			"width": 5
 		},
 		{
@@ -27,7 +27,7 @@
 			"contrailSize": 5,
 			"length": 25,
 			"location": [-17.25, 8.5],
-			"style": "HIGH_TECH",
+			"style": "ZHA_TECH",
 			"width": 5
 		},
 		{
@@ -35,7 +35,7 @@
 			"contrailSize": 5,
 			"length": 25,
 			"location": [-17.25, -8.5],
-			"style": "HIGH_TECH",
+			"style": "ZHA_TECH",
 			"width": 5
 		},
 		{
@@ -43,7 +43,7 @@
 			"contrailSize": 5,
 			"length": 25,
 			"location": [-17.25, 10.5],
-			"style": "HIGH_TECH",
+			"style": "ZHA_TECH",
 			"width": 12
 		},
 		{
@@ -51,7 +51,7 @@
 			"contrailSize": 5,
 			"length": 25,
 			"location": [-17.25, -10.5],
-			"style": "HIGH_TECH",
+			"style": "ZHA_TECH",
 			"width": 12
 		}
 	],

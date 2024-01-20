@@ -7,8 +7,8 @@
 	"displayNameLongWithArticle":"the Zephyr Hermit Arms",
 	"entityNamePrefix":"",
 	"personNamePrefix":"hermit",
-	"personNamePrefixAOrAn":"an",
-	"displayNameIsOrAre":"are",
+	"personNamePrefixAOrAn":"a",
+	"displayNameIsOrAre":"is",
 	"logo":"graphics/zha/factions/zha_banner.png",
 	"crest":"graphics/zha/factions/zha_crest.png",
 	"shipNamePrefix":"ZHS",
@@ -77,13 +77,13 @@
 		"hiressensors":10,
 	},		
 	"factionDoctrine":{
-		"warships":2,
-		"carriers":3,
-		"phaseShips":2,
+		"warships":5,
+		"carriers":5,
+		"phaseShips":5,
 		
-		"officerQuality":1,
+		"officerQuality":5,
 		"shipQuality":5,
-		"numShips":1,
+		"numShips":5,
 		
 		"shipSize":7,
 		

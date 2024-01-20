@@ -18,4 +18,82 @@
 	#"graphics":{
 	#	"category":{ "name":"graphics/ui/sector_age_young.png", }
 	#}
+	##############################################################
+	# These settings CAN be changed by mods
+	##############################################################
+	"altMouseMoveToMassTransfer":true,
+	"breakableShips":false,
+	"renderShieldJitterEffect":false,
+	"enableUIStaticNoise":false,
+	
+	"maxLogisticsHullmods":69,
+	"maxPermanentHullmods":69,
+	
+	# probability of AI core dropping from a destroyed enemy ship that had an AI core officer installed
+	"drop_prob_officer_alpha_core":0.33,
+	"drop_prob_officer_beta_core":0.66,
+	"drop_prob_officer_gamma_core":0.99,
+	"drop_prob_mult_ai_core_frigate":1.28,
+	"drop_prob_mult_ai_core_destroyer":2.56,
+	"drop_prob_mult_ai_core_cruiser":5.12,
+	"drop_prob_mult_ai_core_capital":10.24,
+	"drop_prob_mult_ai_core_station":1000, # the station always drops it
+
+	"friendlyCollisionDamageMult":0.5,
+	
+	"maxIndustries":[1,2,3,5,7,9,12,14,17,20],
+	"overMaxIndustriesPenalty":0, # stability penalty
+	"maxColonySize":9, # maximum size to which a player colony can grow
+	"patherProgressMultNoCells":0,
+	"patherProgressMultSleeperCells":0,
+	"patherProgressMultActiveCells":0,
+	"patherProgressUnit":0,
+	"patherProgressMult":0,
+	# hostile activity from Pathers
+	"luddicPathSmallFleetProb":0.85,
+	"luddicPathMaxFleets":4,
+	"luddicPathSleeperCellsBase":0f,
+	"luddicPathSleeperCellsPerSize":0f,
+	"luddicPathActiveCellsBase":0f,
+	"luddicPathActiveCellsPerSize":0f,
+	"luddicPathPerPointOfInterest":0f,
+
+	"shipWeaponBaseValueMult":1, # direct multiplier for base value when it's loaded from weapon_data.csv
+	"fighterLPCBaseValueMult":1, # direct multiplier for base value when it's loaded from wing_data.csv
+	"shipWeaponBuyPriceMult":1.2,
+	"shipWeaponSellPriceMult":.5,
+	
+	# items such as nanoforges and blueprints
+	# note that survey data and AI cores are "commodities" with price variance 0 and so their price is flat
+	"nonEconItemBuyPriceMult":1.2,
+	"nonEconItemSellPriceMult":0.8,
+	
+	"shipBuyPriceMult":1.0,
+	"shipSellPriceMult":1.0,
+	"hullWithDModsSellPriceMult":0.5,
+	
+	# ship/weapon/fighter production by faction industry
+	"productionCostMult":1,
+	"shipProductionCostBase":1000, # flat extra cost, to make sure making that selling very small cheap ships w/ weapons isn't profitable
+	"productionCapacityPerSWUnit":25000, # monthly production, in credits (cost), based on units of Ships & Weapons produced, using same size-scale as market income/upkeep 
+	"productionSuppliesBonusFraction":0.2, # value of supplies/fuel/crew delivered to gathering point, as fraction of order value
+
+	"playerMaxLevel":55,
+	"baseMaxOutposts":5,
+	"baseMaxAdmins":5,
+	"colonyOverMaxPenalty":0,
+	"baseRepairRateFrigate":0,
+	"baseRepairRateDestroyer":0,
+	"baseRepairRateCruiser":0,
+	"baseRepairRateCapital":0,
+	
+	"suppliesPerMarinePerDay":0;
+	"suppliesPerCrewPerDay":0;
+	"suppliesPerCargoUnitOverCapacity":0;
+	"suppliesPerFuelUnitOverCapacity":0;
+	"suppliesPerPersonnelUnitOverCapacity":0;
+	"maxSuppliesPerDayForOverCapacity":0; # for each type of capacity, so, max 150 total
+	"supplyConsumptionMothballedMult":0;
+	
+	"suppliesPerShipOverMaxInFleet":0 # this is actually a fraction for the total maintenance cost, this * (ships - maxShipsInFleet) 
 }

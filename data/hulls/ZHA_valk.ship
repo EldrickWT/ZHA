@@ -14,7 +14,7 @@
 			"contrailSize": 30,
 			"length": 30,
 			"location": [ -9.5, 1 ],
-			"style": "HIGH_TECH",
+			"style": "ZHA_TECH",
 			"width": 10
 		},
 		{
@@ -22,7 +22,7 @@
 			"contrailSize": 4.413543,
 			"length": 6.010837,
 			"location": [ -7.5, 7 ],
-			"style": "HIGH_TECH",
+			"style": "ZHA_TECH",
 			"width": 4.413543
 		},
 		{
@@ -30,7 +30,7 @@
 			"contrailSize": 4.413543,
 			"length": 6.010837,
 			"location": [ -7.5, -7 ],
-			"style": "HIGH_TECH",
+			"style": "ZHA_TECH",
 			"width": 4.413543
 		}
 	],

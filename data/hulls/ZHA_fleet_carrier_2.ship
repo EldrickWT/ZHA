@@ -130,12 +130,12 @@
 	],
 	"engineSlots":
 	[
-		{"location":[-39,70],"length":125,"width":18,"angle":180,"contrailSize":18,"style":"HIGH_TECH"},
-		{"location":[-39,-70],"length":125,"width":18,"angle":-180,"contrailSize":18,"style":"HIGH_TECH"},
-		{"location":[-38.5,39],"length":125,"width":18,"angle":180,"contrailSize":18,"style":"HIGH_TECH"},
-		{"location":[-38.5,-39],"length":125,"width":18,"angle":-180,"contrailSize":18,"style":"HIGH_TECH"},
-		{"location":[-53,155],"length":20.5,"width":23,"angle":180,"contrailSize":128,"style":"HIGH_TECH"},
-		{"location":[-53,-155],"length":20.5,"width":23,"angle":-180,"contrailSize":128,"style":"HIGH_TECH"},
+		{"location":[-39,70],"length":125,"width":18,"angle":180,"contrailSize":18,"style":"ZHA_TECH"},
+		{"location":[-39,-70],"length":125,"width":18,"angle":-180,"contrailSize":18,"style":"ZHA_TECH"},
+		{"location":[-38.5,39],"length":125,"width":18,"angle":180,"contrailSize":18,"style":"ZHA_TECH"},
+		{"location":[-38.5,-39],"length":125,"width":18,"angle":-180,"contrailSize":18,"style":"ZHA_TECH"},
+		{"location":[-53,155],"length":20.5,"width":23,"angle":180,"contrailSize":128,"style":"ZHA_TECH"},
+		{"location":[-53,-155],"length":20.5,"width":23,"angle":-180,"contrailSize":128,"style":"ZHA_TECH"},
 		{"location":[-53.5,156],"length":221,"width":12,"angle":180,"contrailSize":128,"style":"LOW_TECH"},
 		{"location":[-53.5,-156],"length":221,"width":12,"angle":-180,"contrailSize":128,"style":"LOW_TECH"}
 	],

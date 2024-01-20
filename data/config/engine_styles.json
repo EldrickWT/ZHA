@@ -13,7 +13,7 @@
 		"length":40.0,
 		"angle":180.0
 	},
-	"ZHA_ENGINE":
+	"ZHA_TECH":
 	{
 		"engineColor":[100,165,255,255],
 		"contrailParticleSizeMult":4,

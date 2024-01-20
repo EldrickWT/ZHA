@@ -1,5 +1,6 @@
 id,variant,tags,tier,rarity,fleet pts,op cost,formation,range,attackRunRange,attackPositionOffset,num,role,role desc,refit,base value
 # -REFERENCE- https://starsector.fandom.com/wiki/Wing_data.csv_Overview,,,,,,,,,,,,,,,
-ZHA_weasel_stan_wing,ZHA_weasel_standard,ZHA_bp,4,0.3,12,20,V,4000,1000,300,3,FIGHTER,Fighter,20,20000
-ZHA_weasel_wild_wing,ZHA_weasel_wild_standard,ZHA_bp,5,0.1,20,40,V,4000,1000,300,3,FIGHTER,Fighter,20,32000
-ZHA_weasel_stoat_wing,ZHA_weasel_stoat_standard,"ZHA_bp, special_allows_system_use, system_allows_special_use, automated_fighter",6,0.1,20,60,DIAMOND,4000,1000,300,6,INTERCEPTOR,Interceptor,20,40000
+ZHA_weasel_stan_wing,ZHA_weasel_standard,"ZHA_bp, auto_fighter",4,0.3,12,20,V,4000,1000,300,3,FIGHTER,Fighter,20,20000
+ZHA_weasel_wild_wing,ZHA_weasel_wild_standard,"ZHA_bp, auto_fighter",5,0.5,20,40,V,4000,1000,300,3,FIGHTER,Fighter,20,32000
+ZHA_weasel_stoat_wing,ZHA_weasel_stoat_standard,"ZHA_bp, special_allows_system_use, system_allows_special_use, auto_fighter",6,0.7,20,60,DIAMOND,4000,1000,300,6,INTERCEPTOR,Interceptor,20,40000
+ZHA_Flare_wing,flare_pd,"no_sell, support2, remnant, auto_fighter, boss_bp, ZHA_bp, independen_of_carrier, attack_at_an_angle, rapid_reform, rd_force_extra_craft, restricted",7,1,50,125,BOX,4000,2500,300,9,SUPPORT,Point Defense,20,800000

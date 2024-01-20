@@ -8,7 +8,6 @@
     "defenceStations":[
         {"ids":["orbitalstation_high", "battlestation_high", "starfortress_high"], "weight":1}
     ],
-    "noHomeworld":false,
     
     "rebelFleetSuffix":"Disillusioned",
     "marketSpawnWeight":2,
@@ -29,17 +28,21 @@
     "colonyTargetValuator":"exerelin.campaign.colony.IndustrialColonyTargetValuator",
     "factionIdForHqResponse": "zha",
     "invasionOnlyRetake": true,
-    "startShipsSolo":[[zha_fox_sly]],
-    "startShipsCombatSmall":[[zha_fox_standard],[zha_fox_sly],[dram_std],[buffalo_std]],
-    "startShipsTradeSmall":[[zha_fox_standard],[zha_fox_sly],[dram_std],[buffalo_std],[buffalo_std]],
-    "startShipsCombatLarge":[[zha_fox_standard],[zha_fox_sly],[zha_fox_standard],[dram_std],[buffalo_std]],
-    "startShipsTradeLarge":[[zha_fox_standard],[zha_fox_sly],[buffalo_std],[dram_std],[buffalo_std],[buffalo_std]],
-    "startShipsCarrierSmall":[[ZHA_fleet_carrier_2_cathouse_std],[zha_fox_standard],[dram_std],[buffalo_std]],
-    "startShipsCarrierLarge":[[ZHA_fleet_carrier_2_henhouse_std],[zha_fox_standard],[zha_fox_sly],[zha_fox_standard],[zha_fox_standard],[dram_std],[buffalo_std]],
+    "startShipsSolo":[["zha_fox_sly"]],
+    "startShipsCombatSmall":[["zha_fox_standard", "zha_fox_sly", "dram_std", "buffalo_std"]],
+    "startShipsTradeSmall":[["zha_fox_standard", "zha_fox_sly", "dram_std", "buffalo_std", "buffalo_std"]],
+    "startShipsCombatLarge":[["zha_fox_standard", "zha_fox_sly", "zha_fox_standard", "dram_std", "buffalo_std"]],
+    "startShipsTradeLarge":[["zha_fox_standard", "zha_fox_sly", "buffalo_std", "dram_std", "buffalo_std", "buffalo_std"]],
+    "startShipsCarrierSmall":[["ZHA_fleet_carrier_2_cathouse_std", "zha_fox_standard", "dram_std", "buffalo_std"]],
+    "startShipsCarrierLarge":[["ZHA_fleet_carrier_2_henhouse_std", "zha_fox_standard", "zha_fox_sly", "zha_fox_standard", "zha_fox_standard", "dram_std", "buffalo_std"]],
     "startShipsSuper":[["zha_sexy_fox"]],
     
     "startSpecialItems":[
-        [["low_tech_package", ""], ["midline_package", ""], ["high_tech_package", ""], ["missile_package", ""],["zha_package", ""]],
+        [["low_tech_package", ""]],
+        [["midline_package", ""]],
+        [["high_tech_package", ""]],
+        [["missile_package", ""]],
+        [["ZHA_package", ""]],
     ],
     
     "industrySeeds":[
@@ -53,6 +56,6 @@
         {"id":"population_upsize", "count":1},
         {"id":"nanoforge_pristine", "count":1},
         {"id":"synchrotron", "count":1},
-        {"id":"aiCore_any", "mult":5},
+        {"id":"aiCore_alpha", "mult":5},
     ],
 }
