@@ -1,0 +1,12 @@
+{	
+	"startShipsSolo":[
+		["ZHA_fox_standard"]
+	],
+	"startShipsSuper":[
+		["ZHA_fox_sexy_standard"]
+	],
+	
+	"startShipsGrandFleet":[
+		["ZHA_fleet_carrier_2_henhouse_std", "ZHA_fleet_carrier_2_cathouse_std", "ZHA_fox_standard", "ZHA_fox_sly", "ZHA_fox_standard", "ZHA_fox_sly", "dram_Light", "buffalo_Standard", "dram_Light", "buffalo_Standard"]
+	]
+}

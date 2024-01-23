@@ -9,6 +9,9 @@
 	"hardpointSprite":"graphics/ZHA/weapons/ZHA_furrylauncher_hp.png",
 	"hardpointOffsets":[19, 0],
 	"hardpointAngleOffsets":[0],
+	"renderAboveAllWeapons":0,
+	"renderHints":["RENDER_BARREL_BELOW"],
+	"visualRecoil":0,	# the gun sprites are only used if this is non-0
 	"barrelMode":"LINKED",
 	"animationType": "MUZZLE_FLASH",
 	"textureType": ROUGH,

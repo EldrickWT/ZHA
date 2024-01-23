@@ -1,78 +1,38 @@
 {
-	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
-	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
-	"combatSmallForSmallFleet":{
-	},
 	"combatSmall":{
+		"ZHA_fox_standard":1,
+		"ZHA_fox_sly":1,
+		"dram_Light":1,
+		"buffalo_Standard":1,
+		"fallback":{"combatMedium":.5},
+		"fallback2":{"combatLarge":.25}
 	},
 	"combatMedium":{
-		"ZHA_fox_standard":1
+		"ZHA_fox_standard":2,
+		"ZHA_fox_sly":1,
+		"dram_Light":1,
+		"buffalo_Standard":1,
+		"fallback":{"combatSmall":1},
+		"fallback2":{"combatLarge":.5}
 	},
 	"combatLarge":{
 		"ZHA_fox_sly":1,
-		"ZHA_fox_sexy_standard":1
+		"ZHA_fox_sexy_standard":1,
+		"fallback":{"combatSmall":3},
+		"fallback2":{"combatMedium":2}
 	},
 	"combatCapital":{
-	},
-	"combatFreighterSmall":{
-	},
-	"combatFreighterMedium":{
-	},
-	"combatFreighterLarge":{
-	},
-	"civilianRandom":{
+		"fallback":{"carrierLarge":2},
+		"fallback2":{"combatMedium":3}
 	},
 	"carrierSmall":{
+		"fallback":{"carrierMedium":.5},	
 	},
 	"carrierMedium":{
+		"ZHA_fleet_carrier_2_cathouse_std":1
 	},
 	"carrierLarge":{
 		"ZHA_fleet_carrier_2_henhouse_std":1,
 		"ZHA_fleet_carrier_2_cathouse_std":1
-	},
-	"phaseSmall":{
-	},
-	"phaseMedium":{
-	},
-	"phaseLarge":{
-	},
-	"phaseCapital":{
-	},
-	"freighterSmall":{
-	},
-	"freighterMedium":{
-	},
-	"freighterLarge":{
-	},
-	"tankerSmall":{
-	},
-	"tankerMedium":{
-	},
-	"tankerLarge":{
-	},
-	"personnelSmall":{
-	},
-	"personnelMedium":{
-	},
-	"personnelLarge":{
-	},
-	"linerSmall":{
-	},
-	"linerMedium":{
-	},
-	"linerLarge":{
-	},
-	"tug":{
-	},
-	"crig":{
-	},
-	"utility":{
-	},
-	# Old/unused below this line
-	"fastAttack":{
-	},
-	"escortSmall":{
-	},
-	"escortMedium":{
-	},
+	}
 }

@@ -15,6 +15,8 @@
 	"hardpointOffsets":[15, 0],
 	"hardpointAngleOffsets":[0],
 	"renderAboveAllWeapons":0,
+	"renderHints":["RENDER_BARREL_BELOW"],
+	"visualRecoil":0,	# the gun sprites are only used if this is non-0
 	"fringeColor":[255,255,255,150],
 	"hitGlowRadius":75,
 	"glowColor":[0,0,216,235],

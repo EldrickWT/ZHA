@@ -10,9 +10,9 @@
 			"minRep":"SUSPICIOUS",
 			"minLevel":5,
 			"ships":[
-				["zha_fox_sly"],
-				["zha_fox_standard"],
-				["zha_fox_standard"],
+				["ZHA_fox_sly"],
+				["ZHA_fox_standard"],
+				["ZHA_fox_standard"],
 			],
 			"officers":[
 				{

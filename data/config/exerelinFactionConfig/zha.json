@@ -28,14 +28,14 @@
     "colonyTargetValuator":"exerelin.campaign.colony.IndustrialColonyTargetValuator",
     "factionIdForHqResponse": "zha",
     "invasionOnlyRetake": true,
-    "startShipsSolo":[["zha_fox_sly"]],
-    "startShipsCombatSmall":[["zha_fox_standard", "zha_fox_sly", "dram_std", "buffalo_std"]],
-    "startShipsTradeSmall":[["zha_fox_standard", "zha_fox_sly", "dram_std", "buffalo_std", "buffalo_std"]],
-    "startShipsCombatLarge":[["zha_fox_standard", "zha_fox_sly", "zha_fox_standard", "dram_std", "buffalo_std"]],
-    "startShipsTradeLarge":[["zha_fox_standard", "zha_fox_sly", "buffalo_std", "dram_std", "buffalo_std", "buffalo_std"]],
-    "startShipsCarrierSmall":[["ZHA_fleet_carrier_2_cathouse_std", "zha_fox_standard", "dram_std", "buffalo_std"]],
-    "startShipsCarrierLarge":[["ZHA_fleet_carrier_2_henhouse_std", "zha_fox_standard", "zha_fox_sly", "zha_fox_standard", "zha_fox_standard", "dram_std", "buffalo_std"]],
-    "startShipsSuper":[["zha_sexy_fox"]],
+    "startShipsSolo":[["ZHA_fox_sly"]],
+    "startShipsCombatSmall":[["ZHA_fox_standard", "ZHA_fox_sly", "dram_Light", "buffalo_Standard"]],
+    "startShipsTradeSmall":[["ZHA_fox_standard", "ZHA_fox_sly", "dram_Light", "buffalo_Standard", "buffalo_Standard"]],
+    "startShipsCombatLarge":[["ZHA_fox_standard", "ZHA_fox_sly", "ZHA_fox_standard", "dram_Light", "buffalo_Standard"]],
+    "startShipsTradeLarge":[["ZHA_fox_standard", "ZHA_fox_sly", "buffalo_Standard", "dram_Light", "buffalo_Standard", "buffalo_Standard"]],
+    "startShipsCarrierSmall":[["ZHA_fleet_carrier_2_cathouse_std", "ZHA_fox_standard", "dram_Light", "buffalo_Standard"]],
+    "startShipsCarrierLarge":[["ZHA_fleet_carrier_2_henhouse_std", "ZHA_fox_standard", "ZHA_fox_sly", "ZHA_fox_standard", "ZHA_fox_standard", "dram_Light", "buffalo_Standard"]],
+    "startShipsSuper":[["ZHA_sexy_fox"]],
     
     "startSpecialItems":[
         [["low_tech_package", ""]],
@@ -49,13 +49,13 @@
         {"id":"orbitalworks", "mult":1},
         {"id":"fuelprod", "mult":1},
         {"id":"lightindustry", "mult":1},
-        {"id":"militarybase", "mult":1.5},
+        {"id":"militarybase", "mult":1},
     ],
     
     "bonusSeeds":[
         {"id":"population_upsize", "count":1},
         {"id":"nanoforge_pristine", "count":1},
         {"id":"synchrotron", "count":1},
-        {"id":"aiCore_alpha", "mult":5},
+        {"id":"aiCore_any", "mult":1},
     ],
 }
