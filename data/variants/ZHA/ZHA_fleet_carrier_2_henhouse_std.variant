@@ -37,8 +37,8 @@
 				"WS0008":"ZHA_duck",
 				"WS0009":"ZHA_duck",
 				"WS0010":"ZHA_duck",
-				"WS0011":"ZHA_duck",
-				"WS0012":"ZHA_duck"
+				"WS0011":"ZHA_discreet_duck",
+				"WS0012":"ZHA_discreet_duck"
 			}
 		},
 		{
@@ -46,8 +46,8 @@
 			"mode": "ALTERNATING",
 			"weapons":
 			{
-				"WS0013":"ZHA_furry",
-				"WS0014":"ZHA_furry"
+				"WS0013":"ZHA_discreet_furry",
+				"WS0014":"ZHA_discreet_furry"
 			}
 		}
 	]

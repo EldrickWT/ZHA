@@ -21,6 +21,7 @@
 	##############################################################
 	# These settings CAN be changed by mods
 	##############################################################
+	"uiFadeSpeedMult":5555, # when set to 1000 or higher, also makes the hyperspace transition fade instant
 	"altMouseMoveToMassTransfer":true,
 	"breakableShips":false,
 	"renderShieldJitterEffect":false,

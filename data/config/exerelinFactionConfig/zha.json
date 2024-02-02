@@ -35,7 +35,7 @@
     "startShipsTradeLarge":[["ZHA_fox_standard", "ZHA_fox_sly", "buffalo_Standard", "dram_Light", "buffalo_Standard", "buffalo_Standard"]],
     "startShipsCarrierSmall":[["ZHA_fleet_carrier_2_cathouse_std", "ZHA_fox_standard", "dram_Light", "buffalo_Standard"]],
     "startShipsCarrierLarge":[["ZHA_fleet_carrier_2_henhouse_std", "ZHA_fox_standard", "ZHA_fox_sly", "ZHA_fox_standard", "ZHA_fox_standard", "dram_Light", "buffalo_Standard"]],
-    "startShipsSuper":[["ZHA_sexy_fox"]],
+    "startShipsSuper":[["ZHA_fox_sexy_standard"]],
     
     "startSpecialItems":[
         [["low_tech_package", ""]],

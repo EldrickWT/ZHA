@@ -14,16 +14,7 @@
             "mode": "LINKED",
             "weapons": {
 #Hidden, Medium, Hybrid
-                "WS0001": "ZHA_thot_cannon_med"
-            }
-        },
-        {
-            "autofire": false,
-            "mode": "ALTERNATING",
-            "weapons": {
-#Hidden, Small, Missile
-                "WS0002": "ZHA_duck",
-                "WS0003": "ZHA_duck"
+                "WS0001": "ZHA_discreet_thot_cannon_lrg"
             }
         },
         {
@@ -31,7 +22,16 @@
             "mode": "LINKED",
             "weapons": {
 #Hidden, Small, Missile
-                "WS0004": "ZHA_furry"
+                "WS0002": "ZHA_discreet_duck",
+                "WS0003": "ZHA_discreet_duck"
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+#Hidden, Small, Missile
+                "WS0004": "ZHA_discreet_furry"
             }
         }
     ]

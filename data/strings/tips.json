@@ -3,7 +3,8 @@
 	tips:[
 #         {"freq":0, "tip":"You can change the frequency of tips by adding a json object instead of a string, like so. For example, this tip has a frequency of 0 and will never show up. The default freq value is 1."},
 #         "Example tip.",
-         {"freq":1, "tip":"[ZHA] Do not be so quick to abandon your vessels. Loneliness strikes flesh, bone, metal, wire, code, and soul. Drifting in the void... dead in the water... is worse than being scrapped. - the Zephyr Hermit"},
-         "Zha Tips.",
+         {"freq":1, "tip":"[ZHA] Do not be so quick to abandon your vessels. Loneliness strikes flesh, bone, metal, wire, code, and soul. Drifting in the void... dead in the water... is worse than being scrapped.\n\n - the Zephyr Hermit"},
+         {"freq":1, "tip":"[ZHA] I do not ask for adherents. I meerly ask if they must adopt my eccentricities that they also help me de-orphan and return vessels to their homes, and loved ones. It's the least they can do. My shadow only has room for one. Me. The dockyards are vast however.\n\n - the Zephyr Hermit"},
+         {"freq":1, "tip":"[ZHA] So I told him he put too much data in his TriPad, and that's why I had to call in a favor at TriTac. They even begged to make a house call ... like why? Just Our Old Hermit's ramblings as he calls them. Just need a storage upgrade STC, not one hand delivered. Wonder if he was a fan in hiding...\n\n- One of the Many He's an AI stories..."},
      ],
 }

@@ -44,8 +44,8 @@
           {"file":"sounds/BRDY/fx/weapons/plasmachargeboom.ogg","pitch":1.04,"volume":0.95},
           {"file":"sounds/BRDY/fx/weapons/plasmachargeboom.ogg","pitch":0.97,"volume":0.96}                    
      ],
-	"yrxp_evade":[
-            {"file":"sounds/YRXP/fx/systems/yrxp_evade.ogg","pitch":1, "volume":0.5}
+	"yrxp_i_evade":[
+            {"file":"sounds/YRXP/fx/systems/yrxp_i_evade.ogg","pitch":1, "volume":0.5}
 	],
 	"engine_loop":{
 		"ZHA_TECH":{"sounds":[10,11,12,13,14], "pitch":1, "volume":0.5}

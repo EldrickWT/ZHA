@@ -1,0 +1,32 @@
+{
+	"id":"ZHA_discreet_mince_lrg",
+	"specClass":"beam",
+	"type":"ENERGY",
+	"size":"LARGE",
+	"beamEffect":"data.scripts.fpe.weapons.FPEMintzEffectOLD",
+	"collisionClass":"RAY",
+	"collisionClassByFighter":"RAY_FIGHTER",
+	"turretSprite":"",
+	"turretGlowSprite":"",
+	"hardpointSprite":"",
+	"hardpointGlowSprite":"",
+	"turretOffsets":[10, 0],
+	"turretAngleOffsets":[0],
+	"hardpointOffsets":[15, 0],
+	"hardpointAngleOffsets":[0],
+	"renderAboveAllWeapons":0,
+	"renderHints":["RENDER_BARREL_BELOW"],
+	"visualRecoil":0,	# the gun sprites are only used if this is non-0
+	"fringeColor":[255,255,255,150],
+	"hitGlowRadius":75,
+	"glowColor":[0,0,216,235],
+	"coreColor":[0,0,216,255],
+	"darkCore":false,
+	"width":5,
+	"textureType":WEAVE,
+	"textureScrollSpeed":260,
+	"pixelsPerTexel":5,
+	"pierceSet":[PROJECTILE_FF,PROJECTILE_NO_FF,PROJECTILE_FIGHTER,MISSILE_FF,MISSILE_NO_FF],
+
+	"fireSoundTwo":"tachyon_lance_fire"
+}

@@ -1,117 +1,27 @@
 {
-  "bounds": [
-    -10,
-    16,
-    11,
-    11,
-    11,
-    -10,
-    -10,
-    -15
-  ],
-  "builtInMods": [
-    "no_weapon_flux"
-  ],
-  "center": [
-    20,
-    16
-  ],
-  "collisionRadius": 26,
-  "engineSlots": [
-    {
-      "angle": 180,
-      "contrailSize": 16,
-      "length": 25,
-      "location": [
-        -13,
-        13
-      ],
-      "style": "ZHA_TECH",
-      "width": 4
-    },
-    {
-      "angle": 180,
-      "contrailSize": 16,
-      "length": 25,
-      "location": [
-        -11,
-        9
-      ],
-      "style": "ZHA_TECH",
-      "width": 4
-    },
-    {
-      "angle": 180,
-      "contrailSize": 16,
-      "length": 25,
-      "location": [
-        -13,
-        -13
-      ],
-      "style": "ZHA_TECH",
-      "width": 4
-    },
-    {
-      "angle": 180,
-      "contrailSize": 16,
-      "length": 25,
-      "location": [
-        -11,
-        -8
-      ],
-      "style": "ZHA_TECH",
-      "width": 4
-    }
-  ],
-  "height": 34,
-  "hullId": "flare",
-  "hullName": "Flare",
-  "hullSize": "FIGHTER",
-  "shieldCenter": [
-    0,
-    0
-  ],
-  "shieldRadius": 26,
-  "spriteName": "graphics/ZHA/ships/flare.png",
-  "style": "ZHA_TECH",
-  "viewOffset": 0,
-  "weaponSlots": [
-    {
-      "angle": 0,
-      "arc": 360,
-      "id": "WS 001",
-      "locations": [
-        8,
-        0
-      ],
-      "mount": "HIDDEN",
-      "size": "MEDIUM",
-      "type": "UNIVERSAL"
-    },
-    {
-      "angle": -80,
-      "arc": 360,
-      "id": "WS 002",
-      "locations": [
-        10,
-        -6
-      ],
-      "mount": "HIDDEN",
-      "size": "SMALL",
-      "type": "UNIVERSAL"
-    },
-    {
-      "angle": 80,
-      "arc": 360,
-      "id": "WS 003",
-      "locations": [
-        10,
-        7
-      ],
-      "mount": "HIDDEN",
-      "size": "SMALL",
-      "type": "UNIVERSAL"
-    }
-  ],
-  "width": 40
+	"bounds": [-10,16,11,11,11,-10,-10,-15],
+	"builtInMods": ["no_weapon_flux"],
+	"center": [20,16],
+	"collisionRadius": 26,
+	"engineSlots": [
+		{"angle": 180,"contrailSize": 16,"length": 25,"location": [-13,13], "style": "ZHA_TECH","width": 4},
+		{"angle": 180,"contrailSize": 16,"length": 25,"location": [-11,9],  "style": "ZHA_TECH","width": 4},
+		{"angle": 180,"contrailSize": 16,"length": 25,"location": [-13,-13],"style": "ZHA_TECH","width": 4},
+		{"angle": 180,"contrailSize": 16,"length": 25,"location": [-11,-8], "style": "ZHA_TECH","width": 4}
+	],
+	"height": 34,
+	"width": 40,
+	"hullId": "flare",
+	"hullName": "Flare",
+	"hullSize": "FIGHTER",
+	"shieldCenter": [0,0],
+	"shieldRadius": 26,
+	"spriteName": "graphics/ZHA/ships/flare.png",
+	"style": "ZHA_TECH",
+	"viewOffset": 0,
+	"weaponSlots": [
+		{"angle": 0,  "arc": 360,"id": "WS 001","locations": [8,0],  "mount": "HIDDEN","size": "MEDIUM","type":"UNIVERSAL"},
+		{"angle": -80,"arc": 360,"id": "WS 002","locations": [10,-6],"mount": "HIDDEN","size": "SMALL","type": "UNIVERSAL"},
+		{"angle": 80, "arc": 360,"id": "WS 003","locations": [10,7], "mount": "HIDDEN","size": "SMALL","type": "UNIVERSAL"}
+	]
 }

@@ -1,5 +1,5 @@
 {
-	"id":"yrxp_angel_flare_short",
+	"id":"yrxp_i_angel_flare_long",
 	"specClass":"projectile",
 	"type":"SYSTEM",
 	"size":"SMALL",
@@ -28,6 +28,6 @@
 		"blowbackSpread":10.0,
 		"particleColor":[100,100,100,150]
 	},
-	"projectileSpecId":"yrxp_angel_flare_short",
+	"projectileSpecId":"yrxp_i_angel_flare_long",
 	"fireSoundTwo":"launch_flare_1",
 }

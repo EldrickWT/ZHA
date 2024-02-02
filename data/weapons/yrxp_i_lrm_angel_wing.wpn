@@ -12,8 +12,8 @@
 	"renderAboveAllWeapons":0,
 	"renderHints":["RENDER_BARREL_BELOW"],
 	"visualRecoil":0,	# the gun sprites are only used if this is non-0
-	"id": "yrxp_lrm_angel_wing",
-	"projectileSpecId": "yrxp_lrm_angel_wing",
+	"id": "yrxp_i_lrm_angel_wing",
+	"projectileSpecId": "yrxp_i_lrm_angel_wing",
 	"size": "LARGE",
 	"smokeSpec":
 	{

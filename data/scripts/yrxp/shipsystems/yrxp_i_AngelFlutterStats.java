@@ -24,9 +24,9 @@ import org.lwjgl.util.vector.Vector2f;
 //import org.apache.log4j.Logger;
 import org.jetbrains.annotations.Nullable;
 
-public class yrxp_AngelFlutterStats extends BaseShipSystemScript
+public class yrxp_i_AngelFlutterStats extends BaseShipSystemScript
 {
-	//private static Logger log = Global.getLogger(yrxp_AngelFlutterStats.class);
+	//private static Logger log = Global.getLogger(yrxp_i_AngelFlutterStats.class);
 	private static final Color MIRV_SMOKE = new Color(255, 100, 255, 125);
 	//public static final float MAX_TURN_BONUS = 310f;//Full-circle
 	public static final float MAX_TURN_BONUS = 140f;//Half-circle
@@ -114,7 +114,7 @@ public class yrxp_AngelFlutterStats extends BaseShipSystemScript
 			//angle -= 360f;
 			//}
 			//Vector2f location = MathUtils.getPointOnCircumference(ship.getLocation(), 4.5f, angle);
-			//MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(ship, null, "yrxp_lrbm_10k", location, angle, null);
+			//MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(ship, null, "yrxp_i_lrbm_10k", location, angle, null);
 			//newMissile.setFromMissile(true);
 			//CombatEntityAPI target = ship.getShipTarget();
 			//if(target != null)
@@ -155,7 +155,7 @@ public class yrxp_AngelFlutterStats extends BaseShipSystemScript
 		{
 			if (!started)
 			{
-				Global.getSoundPlayer().playSound("yrxp_evade", 1f, 1f, ship.getLocation(), ZERO);
+				Global.getSoundPlayer().playSound("yrxp_i_evade", 1f, 1f, ship.getLocation(), ZERO);
 				started = true;
 			}
 			List<ShipEngineAPI> engList = ship.getEngineController().getShipEngines();
@@ -534,7 +534,7 @@ public class yrxp_AngelFlutterStats extends BaseShipSystemScript
 		{
 			angle -= 360f;
 		}
-		MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(ship, null, "yrxp_lrm_angel_wing", location, angle, null);
+		MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(ship, null, "yrxp_i_lrm_angel_wing", location, angle, null);
 		newMissile.setFromMissile(true);
 		Global.getCombatEngine().addSmokeParticle(location, ship.getVelocity(), 30f, 0.4f, 0.5f, MIRV_SMOKE);
 		Global.getSoundPlayer().playSound("launch_flare_1", 1f, 1f, location, ship.getVelocity());
@@ -567,7 +567,7 @@ if (target != null && missile.getAI() instanceof GuidedMissileAI)
 		}
 		Global.getCombatEngine().addSmokeParticle(location, ship.getVelocity(), 20f, 0.4f, 0.5f, MIRV_SMOKE);
 		Global.getSoundPlayer().playSound("launch_flare_1", 1f, 1f, location, ship.getVelocity());
-		MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(ship, null, "yrxp_angel_flare_short", location, angle, null);
+		MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(ship, null, "yrxp_i_angel_flare_short", location, angle, null);
 		newMissile.setFromMissile(true);
 	}
 	private void createFlareFlares(ShipAPI ship, float currentRadius,  float currentSideBaseAngle, float currentAngle)
@@ -584,7 +584,7 @@ if (target != null && missile.getAI() instanceof GuidedMissileAI)
 		}
 		Global.getCombatEngine().addSmokeParticle(location, ship.getVelocity(), 20f, 0.4f, 0.5f, MIRV_SMOKE);
 		Global.getSoundPlayer().playSound("launch_flare_1", 1f, 1f, location, ship.getVelocity());
-		MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(ship, null, "yrxp_angel_flare_short", location, angle, null);
+		MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(ship, null, "yrxp_i_angel_flare_short", location, angle, null);
 		newMissile.setFromMissile(true);
 	}
 	private void createFlareFlaresLong(ShipAPI ship, float currentSideBaseAngle, float currentAngle)
@@ -601,7 +601,7 @@ if (target != null && missile.getAI() instanceof GuidedMissileAI)
 		}
 		Global.getCombatEngine().addSmokeParticle(location, ship.getVelocity(), 20f, 0.4f, 0.5f, MIRV_SMOKE);
 		Global.getSoundPlayer().playSound("launch_flare_1", 1f, 1f, location, ship.getVelocity());
-		MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(ship, null, "yrxp_angel_flare_long", location, angle, null);
+		MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(ship, null, "yrxp_i_angel_flare_long", location, angle, null);
 		newMissile.setFromMissile(true);
 	}
 	private void createFlareFlaresLong(ShipAPI ship, float currentRadius,  float currentSideBaseAngle, float currentAngle)
@@ -618,7 +618,7 @@ if (target != null && missile.getAI() instanceof GuidedMissileAI)
 		}
 		Global.getCombatEngine().addSmokeParticle(location, ship.getVelocity(), 20f, 0.4f, 0.5f, MIRV_SMOKE);
 		Global.getSoundPlayer().playSound("launch_flare_1", 1f, 1f, location, ship.getVelocity());
-		MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(ship, null, "yrxp_angel_flare_long", location, angle, null);
+		MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(ship, null, "yrxp_i_angel_flare_long", location, angle, null);
 		newMissile.setFromMissile(true);
 	}
 	private void launchMissile(ShipAPI ship, float currentRadius,  float currentSideBaseAngle, float currentAngle)
@@ -639,15 +639,15 @@ if (target != null && missile.getAI() instanceof GuidedMissileAI)
 		{
 			case 0:
 			launchSound = "launch_flare_1";
-			weaponID = "yrxp_angel_flare_long";
+			weaponID = "yrxp_i_angel_flare_long";
 			break;
 			case 1:
 			launchSound = "launch_flare_1";
-			weaponID = "yrxp_angel_flare_short";
+			weaponID = "yrxp_i_angel_flare_short";
 			break;
 			default:
 			launchSound = "launch_flare_1";
-			weaponID = "yrxp_lrm_angel_wing";
+			weaponID = "yrxp_i_lrm_angel_wing";
 			break;
 		}
 		Global.getCombatEngine().addSmokeParticle(location, ship.getVelocity(), 20f, 0.4f, 0.5f, MIRV_SMOKE);
@@ -678,7 +678,7 @@ if (target != null && missile.getAI() instanceof GuidedMissileAI)
 		//angle -= 360f;
 		//}
 		//MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(
-		//ship, null, "yrxp_lrm_angel_wing", location, angle, null);
+		//ship, null, "yrxp_i_lrm_angel_wing", location, angle, null);
 		//newMissile.setFromMissile(true);
 		//Global.getCombatEngine().addSmokeParticle(location, ship.getVelocity(), 30f, 0.4f, 0.5f, MIRV_SMOKE);
 		//Global.getSoundPlayer().playSound("launch_flare_1", 1f, 1f, location, ship.getVelocity());
@@ -705,7 +705,7 @@ if (target != null && missile.getAI() instanceof GuidedMissileAI)
 		{
 			angle -= 360f;
 		}
-		MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(ship, null, "yrxp_lrm_angel_wing", location, angle, null);
+		MissileAPI newMissile = (MissileAPI) Global.getCombatEngine().spawnProjectile(ship, null, "yrxp_i_lrm_angel_wing", location, angle, null);
 		newMissile.setFromMissile(true);
 		Global.getCombatEngine().addSmokeParticle(location, ship.getVelocity(), 30f, 0.4f, 0.5f, MIRV_SMOKE);
 		Global.getSoundPlayer().playSound("launch_flare_1", 1f, 1f, location, ship.getVelocity());

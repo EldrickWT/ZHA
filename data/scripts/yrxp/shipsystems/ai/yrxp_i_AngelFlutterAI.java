@@ -27,8 +27,8 @@ import com.fs.starfarer.api.combat.WeaponAPI.WeaponType;
 import com.fs.starfarer.api.util.IntervalUtil;
 
 // import org.apache.log4j.Logger;
-public class yrxp_AngelFlutterAI implements ShipSystemAIScript {
-//   private  static Logger log = Global.getLogger(yrxp_AngelFlutterAI.class);   
+public class yrxp_i_AngelFlutterAI implements ShipSystemAIScript {
+//   private  static Logger log = Global.getLogger(yrxp_i_AngelFlutterAI.class);   
 
     private CombatEngineAPI engine;
     private ShipwideAIFlags flags;

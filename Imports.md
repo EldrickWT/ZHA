@@ -8,7 +8,7 @@ Doesn't matter. Nor does it matter if I can't ask -source has not been on the fo
 2 years. Irrelevant.
 
 So I intend to at least ennumerate what I got from where to the best of my ability. AND endeavor
-to find freely available, Legitimate Imports, as soon as able.
+to find freely available, Legitimate Imports, as soon as able. Or kitbash.
 
 From the mod_info file:
 "A weird little mod pack with some TWEAKED weapons from other authors."
@@ -110,7 +110,7 @@ Drawing a blank.
 
 Can't even recall where the Uwu comes from. That's probably stolen too. 9.9 I should learn some sea shanties.
 SMH at myself. Jangle harder. Dance jester dance. Ha ha! Your feather duster bit you. Jangle you cerulean scum.
-Stop landing on the Jester bird. He's got work to do.
+Stop landing on the Jester bird. He's got work to do. Back to your regular perch.
 
 -Oh. OH! Jailer Self should I go test?
 
@@ -121,3 +121,14 @@ Stop landing on the Jester bird. He's got work to do.
 =You could sleep in the rain...
 
 -It is a dry heat.
+
+
+ADDENDUMS (02/01/2024)
+So Neutrino Corp got it's veritech art from HELMUT so that's where the praise goes. YRXP got their veritech
+from HELMUT as well. More of a Macross:DYRL vibe with that design.
+
+WHEN I add a star system TO this mod, I'll have my friend Alluvian Est-Endrati to thank for script notes.
+No separate economy files etc etc etc for his method. All java and one file with a crapload of imports.
+
+And I'll be less likely to mess something up. Well celestial elements'll be bug city knowing me. But I'll
+only have myself to blame.

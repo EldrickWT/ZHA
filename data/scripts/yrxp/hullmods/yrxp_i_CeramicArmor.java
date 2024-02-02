@@ -7,7 +7,7 @@ import com.fs.starfarer.api.combat.BaseHullMod;
 import java.util.HashSet;
 import java.util.Set;
 
-public class yrxp_CeramicArmor extends BaseHullMod {
+public class yrxp_i_CeramicArmor extends BaseHullMod {
 
     private final float explosive = -25f;    
     private final float energy = -25f;
@@ -21,7 +21,7 @@ public class yrxp_CeramicArmor extends BaseHullMod {
         // These hullmods will automatically be removed
 //        BLOCKED_HULLMODS.add("heavyarmor");
         BLOCKED_HULLMODS.add("SCY_reactiveArmor");
-        BLOCKED_HULLMODS.add("yrxp_CeramicArmor");
+        BLOCKED_HULLMODS.add("yrxp_i_CeramicArmor");
     }
     private String ERROR="yrxp_IncompatibleHullmodWarning";
 

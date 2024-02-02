@@ -8,10 +8,10 @@ ZHA_fox_standard
 #ZHA_valk_hull
 ZHA_valk_std
 ZHA_weasel_stan_wing
-ZHA_weasel_standard
-ZHA_weasel_wild_standard
+#ZHA_weasel_standard
+#ZHA_weasel_wild_standard
 ZHA_weasel_wild_wing
-ZHA_weasel_stoat_standard
+#ZHA_weasel_stoat_standard
 ZHA_weasel_stoat_wing
 ZHA_Flare_wing
 #fds_wroth_standard

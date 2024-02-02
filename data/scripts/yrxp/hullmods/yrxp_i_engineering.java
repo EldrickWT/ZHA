@@ -23,9 +23,9 @@ import com.fs.starfarer.api.combat.FighterWingAPI;
 import com.fs.starfarer.api.util.IntervalUtil;
 
 import org.apache.log4j.Logger;
-public class yrxp_engineering extends BaseHullMod {    
+public class yrxp_i_engineering extends BaseHullMod {    
 
-//	   private static Logger log = Global.getLogger(yrxp_engineering.class);  
+//	   private static Logger log = Global.getLogger(yrxp_i_engineering.class);  
     
     private static final Set<String> BLOCKED_HULLMODS = new HashSet<String>();
     static

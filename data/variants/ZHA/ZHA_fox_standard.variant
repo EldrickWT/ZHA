@@ -14,13 +14,13 @@
             "mode": "LINKED",
             "weapons": {
 #Hidden, Large, Universal
-                "WS0001": "lightmg",
-                "WS0002": "lightmg"
+                "WS0001": "ZHA_thot_cannon_lrg",
+                "WS0002": "ZHA_thot_cannon_lrg"
             }
         },
         {
             "autofire": false,
-            "mode": "ALTERNATING",
+            "mode": "LINKED",
             "weapons": {
 #Hidden, Small, Universal
                 "WS0003": "ZHA_duck",
@@ -32,7 +32,7 @@
             "mode": "LINKED",
             "weapons": {
 #Hidden, Small, System?
-#                "WS0005": ""
+                "WS0005": "ZHA_discreet_targeting_laser"
             }
         },
         {
@@ -40,7 +40,7 @@
             "mode": "LINKED",
             "weapons": {
 #Hidden, Small, Built_In
-#                "WS0006": ""
+                "WS0006": "ZHA_mince_sml"
             }
         }
     ]

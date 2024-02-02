@@ -1,0 +1,32 @@
+{
+	"id":"ZHA_discreet_duck",
+	"specClass":"projectile",
+	"type":"MISSILE",
+	"size":"SMALL",
+	"turretSprite":"",
+	"turretOffsets":[19, 0],
+	"turretAngleOffsets":[0],
+	"hardpointSprite":"",
+	"hardpointOffsets":[19, 0],
+	"hardpointAngleOffsets":[0],
+	"renderAboveAllWeapons":0,
+	"renderHints":["RENDER_BARREL_BELOW"],
+	"visualRecoil":0,	# the gun sprites are only used if this is non-0
+	"barrelMode":"LINKED",
+	"animationType": "MUZZLE_FLASH",
+	"textureType": ROUGH,
+	"interruptibleBurst":false,
+	"displayArcRadius":1000,
+	"muzzleFlashSpec":
+	{
+		"length": 15,
+		"particleColor": [100,205,255,150],
+		"particleCount": 10,
+		"particleDuration": 1.5,
+		"particleSizeMin": 10,
+		"particleSizeRange": 20,
+		"spread": 180
+	},
+	"projectileSpecId":"ZHA_furrytorp",
+	"fireSoundTwo":"ZHA_furry_fire"
+}

@@ -1,0 +1,37 @@
+{
+  "id":"ZHA_discreet_targeting_laser",
+  "specClass":"beam",
+  "type":"ENERGY",
+  "size":"SMALL",
+
+  "collisionClass":"RAY",
+  #"collisionClass":"FIGHTER,HITS_SHIPS_AND_ASTEROIDS,HITS_SHIPS_ONLY_NO_FF,MISSILE_FF,MISSILE_NO_FF,NONE,PROJECTILE_FF,PROJECTILE_FIGHTER,PROJECTILE_NO_FF,RAY,RAY_FIGHTER",
+  "collisionClassByFighter":"RAY_FIGHTER",
+  "turretSprite":"",
+  "turretGlowSprite":"",
+  "turretUnderSprite":"",
+  "hardpointSprite":"",
+  "hardpointGlowSprite":"",
+  "turretOffsets":[13.5,0],
+  "turretAngleOffsets":[0],
+  "hardpointOffsets":[15,0],
+  "hardpointAngleOffsets":[0],
+
+  "renderHints":["RENDER_BARREL_BELOW"],
+  #"renderHints":["RENDER_ADDITIVE, RENDER_LOADED_MISSILES_UNLESS_HIDDEN, RENDER_BARREL_BELOW, RENDER_LOADED_MISSILES, SUSPEND_RECOIL"],
+  "visualRecoil":0,	# the gun sprites are only used if this is non-0
+
+  "fringeColor":[0,155,0,255],
+  "hitGlowRadius":0,
+  "glowColor":[100,255,100,255],
+  "coreColor":[255, 255, 255, 255],
+
+  "width":4,
+  "textureType":ROUGH,
+  "textureScrollSpeed":64,
+  "pixelsPerTexel":5,
+  "pierceSet":[ASTEROID, FIGHTER, MISSILE_FF, MISSILE_NO_FF, PROJECTILE_FF, PROJECTILE_FIGHTER, PROJECTILE_NO_FF, SHIP],
+  #"pierceSet":[ASTEROID, FIGHTER, MISSILE_FF, MISSILE_NO_FF, NONE, PROJECTILE_FF, PROJECTILE_FIGHTER, PROJECTILE_NO_FF, SHIP],
+  "fireSoundOne":"laser_intro",
+  "fireSoundTwo":"pd_laser_loop"
+}

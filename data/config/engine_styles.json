@@ -1,7 +1,7 @@
 {
 	"FURRY_TORP":
 	{
-		"engineColor":[119,200,137,125],
+		"engineColor":[100,165,255,255],
 		"contrailParticleSizeMult":10.0,
 		"contrailParticleDuration":1,
 		"contrailParticleFinalSizeMult":1.5,
@@ -25,6 +25,9 @@
 		"contrailCampaignColor":[100,165,255,75],
 		"type":"GLOW", # GLOW or SMOKE
 		"glowSprite":"graphics/fx/engineglow32b.png",
-		"glowShape":"graphics/fx/engineflame32-orig.png"
+		"glowShape":"graphics/fx/engineflame32-orig.png",
+		"width":10.0,
+		"length":40.0,
+		"angle":180.0
 	}
 }

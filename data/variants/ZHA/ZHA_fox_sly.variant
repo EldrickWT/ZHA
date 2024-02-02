@@ -14,13 +14,13 @@
             "mode": "LINKED",
             "weapons": {
 #Hidden, Large, Universal
-                "WS0001": "heavymg",
-                "WS0002": "heavymg"
+                "WS0001": "ZHA_thot_cannon_lrg",
+                "WS0002": "ZHA_thot_cannon_lrg"
             }
         },
         {
             "autofire": false,
-            "mode": "ALTERNATING",
+            "mode": "LINKED",
             "weapons": {
 #Hidden, Small, Universal
                 "WS0003": "ZHA_duck",
@@ -40,7 +40,7 @@
             "mode": "LINKED",
             "weapons": {
 #Hidden, Small, Turret
-#                "WS0006": ""
+                "WS0006": "ZHA_mince_sml"
             }
         }
     ]

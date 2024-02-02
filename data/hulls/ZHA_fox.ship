@@ -6,54 +6,12 @@
 	"center": [38, 37],
 	"collisionRadius": 68,
 	"engineSlots": [
-		{
-			"angle": 180,
-			"contrailSize": 5,
-			"length": 25,
-			"location": [-34.5, 12.5],
-			"style": "ZHA_TECH",
-			"width": 5
-		},
-		{
-			"angle": -180,
-			"contrailSize": 5,
-			"length": 25,
-			"location": [-34.5,-12.5],
-			"style": "ZHA_TECH",
-			"width": 5
-		},
-		{
-			"angle": -180,
-			"contrailSize": 5,
-			"length": 25,
-			"location": [-34.5, 8.5],
-			"style": "ZHA_TECH",
-			"width": 5
-		},
-		{
-			"angle": -180,
-			"contrailSize": 5,
-			"length": 25,
-			"location": [-34.5, -8.5],
-			"style": "ZHA_TECH",
-			"width": 5
-		},
-		{
-			"angle": -180,
-			"contrailSize": 5,
-			"length": 25,
-			"location": [-34.5, 10.5],
-			"style": "ZHA_TECH",
-			"width": 12
-		},
-		{
-			"angle": -180,
-			"contrailSize": 5,
-			"length": 25,
-			"location": [-34.5, -10.5],
-			"style": "ZHA_TECH",
-			"width": 12
-		}
+		{"angle":  180,"contrailSize": 5,"length": 25,"location": [-34.5, 12.5], "style": "ZHA_TECH","width":  5},
+		{"angle": -180,"contrailSize": 5,"length": 25,"location": [-34.5,-12.5], "style": "ZHA_TECH","width":  5},
+		{"angle": -180,"contrailSize": 5,"length": 25,"location": [-34.5, 8.5],  "style": "ZHA_TECH","width":  5},
+		{"angle": -180,"contrailSize": 5,"length": 25,"location": [-34.5, -8.5], "style": "ZHA_TECH","width":  5},
+		{"angle": -180,"contrailSize": 5,"length": 25,"location": [-34.5, 10.5], "style": "ZHA_TECH","width": 12},
+		{"angle": -180,"contrailSize": 5,"length": 25,"location": [-34.5, -10.5],"style": "ZHA_TECH","width": 12}
 	],
 	"height": 102,
 	"width": 76,
@@ -63,63 +21,15 @@
 	#"hullSize": "FIGHTER",
 	"shieldCenter": [3.5, 0],
 	"shieldRadius": 61.5,
-	"spriteName": "graphics/ZHA/ships/ZHA_fox.png", #Art and Design 'Neutrino Corp Mod', pixel and flood fill recolor Eldrick Tobin
+	"spriteName": "graphics/ZHA/ships/ZHA_fox.png", #Art and design HELMUT used by 'Neutrino Corp Mod', reappropriation, pixel, and flood fill recolor Eldrick Tobin
 	"style": "ZHA_TECH",
 	"viewOffset": 0,
 	"weaponSlots": [
-		{
-			"angle": 0,
-			"arc": 7.5,
-			"id": "WS0001",
-			"locations": [0.5,15],
-			"mount": "HIDDEN",
-			"size": "LARGE",
-			"type": "UNIVERSAL"
-		},
-		{
-			"angle": 0,
-			"arc": 7.5,
-			"id": "WS0002",
-			"locations": [0.5,-15],
-			"mount": "HIDDEN",
-			"size": "LARGE",
-			"type": "UNIVERSAL"
-		},
-		{
-			"angle": 0,
-			"arc": 7.5,
-			"id": "WS0003",
-			"locations": [-3.5, 30],
-			"mount": "HIDDEN",
-			"size": "SMALL",
-			"type": "UNIVERSAL"
-		},
-		{
-			"angle": 0,
-			"arc": 7.5,
-			"id": "WS0004",
-			"locations": [-3.5,-30],
-			"mount": "HIDDEN",
-			"size": "SMALL",
-			"type": "UNIVERSAL"
-		},
-		{
-			"angle": 0,
-			"arc": 75,
-			"id": "WS0005",
-			"locations": [-11.5, 0],
-			"mount": "HIDDEN",
-			"size": "MEDIUM",
-			"type": "UNIVERSAL"
-		},
-		{
-			"angle": 0,
-			"arc": 75,
-			"id": "WS0006",
-			"locations": [-4.5,0],
-			"mount": "TURRET",
-			"size": "SMALL",
-			"type": "UNIVERSAL"
-		}
+		{"angle": 0,"arc": 7.5,"id": "WS0001","locations": [0.5,15],  "mount": "HIDDEN","size": "LARGE", "type": "UNIVERSAL"},
+		{"angle": 0,"arc": 7.5,"id": "WS0002","locations": [0.5,-15], "mount": "HIDDEN","size": "LARGE", "type": "UNIVERSAL"},
+		{"angle": 0,"arc": 7.5,"id": "WS0003","locations": [-3.5, 30],"mount": "HIDDEN","size": "SMALL", "type": "UNIVERSAL"},
+		{"angle": 0,"arc": 7.5,"id": "WS0004","locations": [-3.5,-30],"mount": "HIDDEN","size": "SMALL", "type": "UNIVERSAL"},
+		{"angle": 0,"arc": 75, "id": "WS0005","locations": [-11.5, 0],"mount": "HIDDEN","size": "MEDIUM","type": "UNIVERSAL"},
+		{"angle": 0,"arc": 75, "id": "WS0006","locations": [-4.5,0],  "mount": "TURRET","size": "SMALL", "type": "UNIVERSAL"}
 	],
 }

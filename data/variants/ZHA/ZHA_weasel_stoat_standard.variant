@@ -14,8 +14,8 @@
             "mode": "LINKED",
             "weapons": {
 #Hidden, Large, Universal
-                "WS0001": "ZHA_thot_cannon_lrg",
-                "WS0002": "ZHA_thot_cannon_lrg"
+                "WS0001": "ZHA_discreet_thot_cannon_lrg",
+                "WS0002": "ZHA_discreet_thot_cannon_lrg"
             }
         },
         {
@@ -23,8 +23,8 @@
             "mode": "ALTERNATING",
             "weapons": {
 #Hidden, Small, Universal
-                "WS0003": "ZHA_duck",
-                "WS0004": "ZHA_duck"
+                "WS0003": "ZHA_discreet_duck",
+                "WS0004": "ZHA_discreet_duck"
             }
         },
         {
@@ -32,7 +32,7 @@
             "mode": "LINKED",
             "weapons": {
 #Hidden, Medium, Universal
-                "WS0005": "ZHA_twotimesasfurry"
+                "WS0005": "ZHA_discreet_furry"
             }
         },
         {
@@ -40,7 +40,7 @@
             "mode": "LINKED",
             "weapons": {
 #Hidden, Small, Turret
-                "WS0006": "ZHA_mince_sml"
+                "WS0006": "ZHA_discreet_mince_lrg"
             }
         }
     ]

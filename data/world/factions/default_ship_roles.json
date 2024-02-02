@@ -26,7 +26,7 @@
 		"fallback2":{"combatMedium":3}
 	},
 	"carrierSmall":{
-		"fallback":{"carrierMedium":.5},	
+		"fallback":{"carrierMedium":.5}
 	},
 	"carrierMedium":{
 		"ZHA_fleet_carrier_2_cathouse_std":1

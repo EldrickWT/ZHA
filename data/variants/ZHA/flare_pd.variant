@@ -9,7 +9,7 @@
 	"systemId":"forgevats",
 	"weaponGroups":[
 		#Hidden, Medium, Universal
-		{"mode":"LINKED", "weapons":{"WS 001":"ZHA_twotimesasfurry",},},
+		{"mode":"LINKED", "weapons":{"WS 001":"ZHA_discreet_furry",},},
 		#Hidden, SMALL, Universal
 		{"mode":"LINKED", "weapons":{"WS 002":"ZHA_mince_sml",},},
 		#Hidden, SMALL, Universal

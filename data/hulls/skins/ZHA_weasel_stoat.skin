@@ -16,6 +16,5 @@
 	"spriteName":"graphics/ZHA/ships/ZHA_weasel_stoat.png", #Art and Design 'Neutrino Corp Mod', pixel and flood fill recolor Eldrick Tobin
 	"systemId":"phasecloak",
 	"baseValueMult":1.5,			# Most applicable if the vessel does not ordinarily appear in ship_data.csv or wing_data.csv... Bosses and High Value Bounties come to mind.
-	"tags":["ZHA_bp", "special_allows_system_use", "system_allows_special_use", "automated_fighter"],	#often used for blueprint (bp) data.
-	"tech":"ZHA"					#Manufacturer if different from source or otherwise non-existent.
+	"tags":["ZHA_bp", "special_allows_system_use", "system_allows_special_use", "automated_fighter"]	#often used for blueprint (bp) data.
 }
