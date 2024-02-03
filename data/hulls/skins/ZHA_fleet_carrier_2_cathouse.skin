@@ -4,6 +4,7 @@
 	"descriptionPrefix":"The Hull reinvigorated once again for it has many charges in it's care. It is now a Hen House. That said... when the Hen's away the cats will play. Nyao.",
 	"hullDesignation":"Carrier",
 	"hullName":"Cat House",
+	"coversColor": [255,255,255,255],
 	"removeBuiltInWeapons":
 	[
 		"WS0013",

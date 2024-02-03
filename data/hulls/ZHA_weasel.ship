@@ -5,6 +5,7 @@
 	"builtInWings": [],
 	"center": [19, 18.5],
 	"collisionRadius": 34,
+	"coversColor": "255,255,255,255",
 	"engineSlots": [
 		{"angle": 180, "contrailSize": 5,"length": 25,"location": [-17.25, 6.25], "style": "ZHA_TECH","width": 5},
 		{"angle": -180,"contrailSize": 5,"length": 25,"location": [-17.25,-6.25], "style": "ZHA_TECH","width": 5},

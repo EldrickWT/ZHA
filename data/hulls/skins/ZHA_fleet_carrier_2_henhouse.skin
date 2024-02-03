@@ -4,8 +4,9 @@
 	"descriptionPrefix":"The Hull is reinvigorated once again for it has many charges in it's care. It is now a Hen House. The Hens are legion.",
 	"hullDesignation":"Carrier",
 	"hullName":"Hen House",
+	"coversColor": [255,255,255,255],
 	"skinHullId":"ZHA_fleet_carrier_2_henhouse",
-	"tags":["ZHA_bp,rd_force_extra_craft"],
+	"tags":["ZHA_bp, rd_force_extra_craft"],
 	"tech":"ZHA",
 	"systemId":"reservewing",
 	"builtInWings":

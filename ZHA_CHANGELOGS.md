@@ -1,5 +1,13 @@
 #ZHA_CHANGELOGS.md
 
+Summary for 2fa
+- I'm an idiot who forgot to test.
+Changes - coversColor in *.skin and *.variant
+from "255,255,255,255"
+to [255,255,255,255]...
+Quotes are for *.ship files.
+-----
+
 2f and you get the first changelog. SHOULD be the first of many.
 Let's start this kindling.
 

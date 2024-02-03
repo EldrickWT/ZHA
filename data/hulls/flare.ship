@@ -3,6 +3,7 @@
 	"builtInMods": ["no_weapon_flux"],
 	"center": [20,16],
 	"collisionRadius": 26,
+	"coversColor": "255,255,255,255",
 	"engineSlots": [
 		{"angle": 180,"contrailSize": 16,"length": 25,"location": [-13,13], "style": "ZHA_TECH","width": 4},
 		{"angle": 180,"contrailSize": 16,"length": 25,"location": [-11,9],  "style": "ZHA_TECH","width": 4},

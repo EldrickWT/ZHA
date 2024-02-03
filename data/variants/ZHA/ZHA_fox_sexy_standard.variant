@@ -4,6 +4,7 @@
 	"fluxVents": 12,
 	"goalVariant": true,
 	"hullId": "ZHA_fox_sexy",
+	"coversColor": [255,255,255,255],
 	"variantId": "ZHA_fox_sexy_standard", #The Standard is in stealthmode.
 	"permaMods": [
 		"advancedcore",

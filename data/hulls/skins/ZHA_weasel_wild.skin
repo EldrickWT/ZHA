@@ -4,6 +4,7 @@
 	"hullName":"Wild Weasel",		# What you want displayed... when it is destroyed. "ISS HerpDerp (Random-Class) disabled" for WINGs it is the full name.
 	"descriptionId":"ZHA_weasel",		# optional... if you fill in the entire description on the next line.
 	"descriptionPrefix":"When you need more weapons you call in Wild Weasels...", # Appears above the optionally imported description unless this is a SKIN for a WING.
+	"coversColor": [255,255,255,255],
 	"engineSlotChanges":
 	{
 		"0":{"style": "ZHA_TECH"},

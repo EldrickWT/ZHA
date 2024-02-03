@@ -7,6 +7,7 @@
     "hullMods": ["efficiency_overhaul"],
     "permaMods": ["no_weapon_flux"],
     "quality": 0,
+    "coversColor": [255,255,255,255],
     "variantId": "ZHA_weasel_stoat_standard",
     "weaponGroups": [
         {

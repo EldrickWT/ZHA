@@ -8,6 +8,7 @@
 	"width":501,
 	"center":[251,63],
 	"collisionRadius":498,
+	"coversColor": "255,255,255,255",
 	"shieldCenter":[0,-0.5],
 	"shieldRadius":390,
 	"viewOffset":0,

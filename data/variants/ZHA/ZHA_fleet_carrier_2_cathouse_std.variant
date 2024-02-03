@@ -5,6 +5,7 @@
 	"goalVariant": true,
 	"hullId": "ZHA_fleet_carrier_2_cathouse",
 	"variantId": "ZHA_fleet_carrier_2_cathouse_std",
+	"coversColor": [255,255,255,255],
 	"quality": 100,
 	"weaponGroups":
 	[

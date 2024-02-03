@@ -8,6 +8,7 @@
     "permaMods": [],
     "quality": 0,
     "variantId": "ZHA_valk_std",
+    "coversColor": [255,255,255,255],
     "weaponGroups": [
         {
             "autofire": false,

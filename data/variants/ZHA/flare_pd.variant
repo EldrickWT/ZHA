@@ -5,6 +5,7 @@
 	"fluxCapacitors": 0,
 	"fluxVents": 0,
 	"quality": 9,
+	"coversColor": [255,255,255,255],
 	"hullMods":["efficiency_overhaul", "no_weapon_flux", "turretgyros", "pointdefenseai", "automated", "fluxbreakers", "shield_always_on", "supercomputer"],
 	"systemId":"forgevats",
 	"weaponGroups":[

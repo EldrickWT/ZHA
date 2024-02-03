@@ -4,6 +4,7 @@
 	"hullName":"Sexy Fox",
 	"descriptionId":"ZHA_fox",	# optional
 	"descriptionPrefix":"Dressed for success, like a turkey with all.the.trimmings. This Alluring Ship is ready to go...",
+	"coversColor": [255,255,255,255],
 	"spriteName":"graphics/ZHA/ships/ZHA_fox_sexy.png", #Art and Design 'Neutrino Corp Mod', pixel and flood fill recolor Eldrick Tobin
 	"removeWeaponSlots":[],		# ids
 	"removeEngineSlots":[],		# indices, as engine slots have no id in the .ship file
